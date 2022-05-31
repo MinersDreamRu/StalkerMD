@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_traktor",
+  "light": 0,
+  "textures": {
+    "0.022": "statics/vehicles/cars/veh_traktor_br",
+    "2.017": "statics/vehicles/cars/veh_traktor_br"
+  },
+  "collision-boxes": {
+    "main1": [0.1, 0.5, -0.5, 1, 1, 1],
+    "main2": [-0.9, 0, -0.5, 1, 2, 1],
+    "main3": [-1.5, 0.1, -0.5, 1, 1, 0],
+    "main4": [-1.5, 0.1, 0.5, 1, 1, 0]
+  }
+}

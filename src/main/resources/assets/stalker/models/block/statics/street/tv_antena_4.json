@@ -1,0 +1,22 @@
+{
+  "scale": 1,
+  "directions": 16,
+  "rotate": 270.0,
+  "icon": "statics/street/tv_antena_4",
+  "light": 0,
+  "textures": {
+    "0.026": "addition/prop/prop_electricalunit3",
+	"1.018": "addition/mtl/mtl_rja_02",
+	"2.009": "addition/mtl/mtl_rja_02",
+	"3.006": "addition/mtl/mtl_rja_02",
+	"4.003": "addition/mtl/mtl_wall_01",
+	"5": "addition/mtl/mtl_rja_01",
+	"6": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 12, 0],
+    "main2": [0.2, 9.2, -0.3, 1, 1, 0],
+    "main3": [0.2, 9.2, 0.2, 0, 1, 1],
+    "main4": [0.5, 9.2, 0.5, 0, 0, 0]
+  }
+}

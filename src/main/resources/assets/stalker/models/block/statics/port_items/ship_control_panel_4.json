@@ -1,0 +1,16 @@
+{
+  "scale": 1.2,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/port_items/ship_control_panel_4",
+  "light": 0,
+  "textures": {
+	"0.004": "addition/prop/prop_pult5",
+	"1.004": "addition/mtl/mtl_wall_01",
+    "2.004": "addition/mtl/mtl_barrel_01"
+  },
+  "collision-boxes": {
+    "main1": [0.3, 0, 0, 0, 1, 0],
+	"main2": [0, 0, 0, 0, 1, 0]
+  }
+}

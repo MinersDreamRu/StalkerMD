@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_gaz66",
+  "light": 0,
+  "textures": {
+    "0": "statics/vehicles/cars/veh_gaz66",
+    "2": "statics/vehicles/cars/veh_gaz66",
+    "3": "statics/vehicles/cars/veh_gaz66"
+  },
+  "collision-boxes": {
+    "main1": [-3.5, 0.1, -1.5, 7, 3, 3],
+    "main2": [-4, 0.3, -1.5, 1, 1, 3]
+  }
+}

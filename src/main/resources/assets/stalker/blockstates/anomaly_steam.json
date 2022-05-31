@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "anomalystage=0": { "model": "stalker:steam" },
+        "anomalystage=1": { "model": "stalker:steam_1" },
+        "anomalystage=2": { "model": "stalker:steam_1" },
+        "anomalystage=3": { "model": "stalker:steam_1" },
+        "anomalystage=4": { "model": "stalker:steam_1" }
+    }
+}

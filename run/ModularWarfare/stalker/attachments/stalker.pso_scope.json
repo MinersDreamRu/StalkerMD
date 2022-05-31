@@ -1,0 +1,16 @@
+{
+  "displayName": "PSO Scope",
+  "internalName": "stalker.pso_scope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.pso_scope",
+      "displayName": "PSO Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "4x",
+    "sensivityScopeFactor": 0.9,
+    "dotColorType": "red"
+  }
+}

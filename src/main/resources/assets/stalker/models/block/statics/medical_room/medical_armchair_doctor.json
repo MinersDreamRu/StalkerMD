@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/medical_room/medical_armchair_doctor",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/prop/prop_brezent",
+	"1": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [0.3, 0, 0.3, 0, 1, 0],
+    "main2": [0.3, 0, -0.3, 0, 1, 0],
+    "main3": [-0.3, 0.5, -0.3, 0, 0, 0],
+    "main4": [-0.3, 0.5, 0.3, 0, 0, 0],
+	"main5": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

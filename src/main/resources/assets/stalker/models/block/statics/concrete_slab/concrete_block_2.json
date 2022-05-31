@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/concrete_slab/concrete_block_2",
+  "light": 0,
+  "textures": {
+    "0.026": "addition/crete/crete_walls_02",
+    "1.022": "addition/crete/crete_beton_lom"
+  },
+  "collision-boxes": {
+    "main1": [-2, 0.7, -0.5, 4, 0, 1]
+  }
+}

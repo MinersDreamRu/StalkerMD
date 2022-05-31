@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "ex/fargry/zabor_setka/2_zabot_setka_r",
+  "light": 0,
+  "textures": {
+    "0": "addition/mtl/mtl_setka",
+    "1": "addition/mtl/mtl_rja_01",
+    "2": "addition/crete/crete_beton_8"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -0.5, 0, 1, 1],
+    "main2": [0, 1.4, -0.5, 0, 0, 1],
+    "main3": [0, 1.4, 0.4, 0, 0, 1],
+    "main4": [0, 0, 0.4, 0, 1, 1]
+  }
+}

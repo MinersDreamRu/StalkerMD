@@ -1,0 +1,25 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/street/lamppost_04",
+  "light": 0,
+  "textures": {
+    "0.014": "addition/mtl/mtl_rja_01",
+	"1.011": "addition/mtl/mtl_tubes3b",
+	"2.005": "addition/mtl/mtl_tubes3b",
+	"3.003": "addition/mtl/mtl_tubes3b",
+	"4": "addition/prop/prop_lamppost1b"
+  },
+  "collision-boxes": {
+    "main1": [0.1, 0, 0.1, 0, 8, 0],
+    "main2": [0.1, 0, -0.1, 0, 8, 0],
+    "main3": [-0.1, 0, -0.1, 0, 8, 0],
+    "main4": [-1.2, 5.1, 0, 1, 0, 0],
+    "main5": [-0.1, 0, 0.1, 0, 8, 0],
+    "main6": [-2.2, 8, 0, 2, 1, 0],
+    "main7": [0.4, 8, -1, 0, 1, 2],
+    "main8": [1, 9, 1, 0, 0, 1],
+    "main9": [1, 9, -2, 0, 0, 1]
+  }
+}

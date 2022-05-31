@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/sign/sign_lim_zapovednik",
+  "light": 0,
+  "textures": {
+    "0.008": "addition/prop/prop_signs_04",
+    "1.003": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0.5, 0, 2, 0],
+    "main2": [0, 0, -0.5, 0, 2, 0],
+    "main3": [0, 1.2, -0.7, 0, 1, 1],
+    "main4": [0, 1.2, -0.3, 0, 1, 1]
+  }
+}

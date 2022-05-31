@@ -1,0 +1,394 @@
+{
+  "medkit.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:usemedkit" ]
+  },
+  "vodka.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:usevodkabottle" ]
+  },
+  "antirad.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:useantirad" ]
+  },
+  "bandage.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:usebandage" ]
+  },
+  "food.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:fooduse" ]
+  },
+  "drink.player.use": {
+    "category": "block",
+    "sounds": [ "stalker:drinkuse" ]
+  },
+  "anomaly.activate.springboard": {
+    "category": "block",
+    "sounds": [ "stalker:trampolinehitbig" ]
+  },
+  "anomaly.activate.funnel": {
+    "category": "block",
+    "sounds": [ "stalker:funnelhit" ]
+  },
+  "anomaly.activate.border": {
+    "category": "block",
+    "sounds": [ "stalker:funnelhit" ]
+  },
+  "anomaly.activate.frying": {
+    "category": "block",
+    "sounds": [ "stalker:fryinghit" ]
+  },
+  "anomaly.activate.steam": {
+    "category": "block",
+    "sounds": [ "stalker:steamhit" ]
+  },
+  "anomaly.activate.electra": {
+    "category": "block",
+    "sounds": [ "stalker:electrahit" ]
+  },
+  "anomaly.activate.jelly": {
+    "category": "block",
+    "sounds": [ "stalker:jellyhit" ]
+  },
+  "anomaly.activate.soda": {
+    "category": "block",
+    "sounds": [ "stalker:sodahit" ]
+  },
+  "stalker.an94.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunan94shot"
+    ]
+  },
+  "stalker.an94.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunan94shotsil"
+    ]
+  },
+  "stalker.an94.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunan94reload"
+    ]
+  },
+  "stalker.pm.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunpmshot"
+    ]
+  },
+  "stalker.pm.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunpmreload"
+    ]
+  },
+  "stalker.pb.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunpbshot"
+    ]
+  },
+  "stalker.pb.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunpbreload"
+    ]
+  },
+  "stalker.beretta.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunberettashot"
+    ]
+  },
+  "stalker.beretta.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunberettashotsil"
+    ]
+  },
+  "stalker.beretta.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunberettareload"
+    ]
+  },
+  "stalker.usp.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunuspshot"
+    ]
+  },
+  "stalker.usp.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunuspshotsil"
+    ]
+  },
+  "stalker.usp.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunuspreload"
+    ]
+  },
+  "stalker.colt.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:guncoltshot"
+    ]
+  },
+  "stalker.colt.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:guncoltshotsil"
+    ]
+  },
+  "stalker.colt.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:guncoltreload"
+    ]
+  },
+  "stalker.walter.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunwaltershot"
+    ]
+  },
+  "stalker.walter.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunwalterreload"
+    ]
+  },
+  "stalker.walter.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunwaltershotsil"
+    ]
+  },
+  "stalker.ak74.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74shot"
+    ]
+  },
+  "stalker.ak74.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74shotsil"
+    ]
+  },
+  "stalker.ak74.shoot762x54": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74shot762x54"
+    ]
+  },
+  "stalker.ak74.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74reload"
+    ]
+  },
+  "stalker.ak74u.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74ushot"
+    ]
+  },
+  "stalker.ak74u.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74ushotsil"
+    ]
+  },
+  "stalker.ak74u.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunak74ureload"
+    ]
+  },
+  "stalker.lr300.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunlr300shot"
+    ]
+  },
+  "stalker.lr300.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunlr300shotsil"
+    ]
+  },
+  "stalker.lr300.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunlr300reload"
+    ]
+  },
+  "stalker.svu.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvushot"
+    ]
+  },
+  "stalker.svu.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvureload"
+    ]
+  },
+  "stalker.svd.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvdshot"
+    ]
+  },
+  "stalker.svd.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvdreload"
+    ]
+  },
+  "stalker.svd.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvdshotsil"
+    ]
+  },
+  "stalker.svt.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvtshot"
+    ]
+  },
+  "stalker.svt.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsvtreload"
+    ]
+  },
+  "stalker.gauss.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gungaussshot"
+    ]
+  },
+  "stalker.gauss.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gungaussreload"
+    ]
+  },
+  "stalker.vss.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunvssshot"
+    ]
+  },
+  "stalker.vss.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunvssreload"
+    ]
+  },
+  "stalker.asval.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunasvalshot"
+    ]
+  },
+  "stalker.asval.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunasvalreload"
+    ]
+  },
+  "stalker.mp5sd.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunmp5sdshot"
+    ]
+  },
+  "stalker.mp5sd.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunmp5sdreload"
+    ]
+  },
+  "stalker.deserteagle.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gundeserteagleshot"
+    ]
+  },
+  "stalker.deserteagle.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gundeserteaglereload"
+    ]
+  },
+  "stalker.sig550.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsig550shot"
+    ]
+  },
+  "stalker.sig550.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsig550shotsil"
+    ]
+  },
+  "stalker.sig550.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunsig550reload"
+    ]
+  },
+  "stalker.spas12.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunspas12shot"
+    ]
+  },
+  "stalker.spas12.chamber": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunspas12load"
+    ]
+  },
+  "stalker.spas12.pump": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunspas12pump"
+    ]
+  },
+  "stalker.toz34.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:guntoz34shot"
+    ]
+  },
+  "stalker.l85.shoot": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunl85shot"
+    ]
+  },
+  "stalker.l85.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunl85shotsil"
+    ]
+  },
+  "stalker.l85.reload": {
+    "category": "player",
+    "sounds": [
+      "stalker:gunl85reload"
+    ]
+  }
+}

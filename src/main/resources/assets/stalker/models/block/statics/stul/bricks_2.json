@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/stul/bricks_2",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/crete/crete_walls_02"
+  },
+  "collision-boxes": {
+    "main1": [0.2, 0.3, -0.5, 0, 0, 1],
+    "main2": [-0.2, 0.3, -0.5, 0, 0, 1],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

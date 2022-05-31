@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 180.0,
+  "translation": [0.5, 0.5, 0.0],
+  "model": "statics/light/light_white_1",
+  "icon": "statics/light/light_white_1_no",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/mtl/mtl_barrel_01",
+    "2.006": "addition/mtl/mtl_rja_01",
+    "3.003": "addition/mtl/mtl_tubes3b",
+    "4.002": "addition/mtl/mtl_rja_green"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, -0.5, 0, 1, 1, 0]
+  }
+}

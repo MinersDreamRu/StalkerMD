@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "ex/fargry/stolb/stolb_1b_b",
+  "light": 0,
+  "textures": {
+    "0": "addition/crete/crete_beton_8"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.6, 0, 0, 1, 0],
+    "main2": [0, 0, 0, 0, 1, 0]
+  }
+}

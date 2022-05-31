@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/cover/cover_wood_box_7",
+  "light": 0,
+  "textures": {
+    "0.017": "addition/wood/wood_jasik",
+    "1.010": "addition/mtl/mtl_rja_green",
+    "2.004": "addition/wood/wood_board_02",
+    "3.002": "addition/wood/wood_jasik"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -1, 1, 1, 2],
+    "main2": [-0.5, 0.3, -1, 1, 1, 1]
+  }
+}

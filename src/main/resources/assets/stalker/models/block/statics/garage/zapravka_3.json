@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "model": "statics/garage/zapravka",
+  "icon": "statics/garage/zapravka_3",
+  "light": 0,
+  "textures": {
+    "0.013": "addition/mtl/mtl_red_painted",
+    "1.010": "addition/mtl/mtl_floor_plate_03",
+    "2.002": "addition/prop/prop_zapravka",
+    "3.002": "addition/crete/crete_walls_02",
+    "5.002": "addition/mtl/mtl_rja_01",
+    "6.001": "addition/mtl/mtl_rja_02"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -0.5, 0, 2, 1]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/trains/veh_vagoni_1",
+  "light": 0,
+  "textures": {
+    "0": "statics/vehicles/trains/veh_vagoni_cpm",
+    "1": "statics/vehicles/trains/veh_vagon1_01"
+  },
+  "collision-boxes": {
+    "main1": [-6.2, 0, -0.8, 12, 4, 2],
+    "main2": [-6.2, 0, -1.2, 12, 4, 1],
+    "main3": [5.2, 0, -1.2, 1, 4, 1],
+    "main4": [5.2, 0, -0.8, 1, 4, 2]
+  }
+}

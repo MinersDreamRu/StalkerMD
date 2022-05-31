@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "dynamics/armory_room/shooting_target_1",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_target",
+	"1": "addition/wood/wood_collect",
+	"2": "addition/crete/crete_walls_02",
+	"3": "addition/mtl/mtl_pod_01_stears",
+	"4": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1],
+    "main2": [0, 0, 0, 0, 1, 0],
+    "main3": [0, 0.6, 0, 0, 1, 0]
+  }
+}

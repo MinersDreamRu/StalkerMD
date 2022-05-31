@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/street/bench_1_br1",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/wood/wood_board_02",
+	"1.001": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.6, 0.5, -1.5, 1, 0, 3],
+    "main2": [0.4, 0.1, -1.5, 0, 1, 3]
+  }
+}

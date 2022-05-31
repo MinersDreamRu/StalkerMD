@@ -1,0 +1,19 @@
+{
+    "internalName": "stalker.kyrtka.svoboda",
+    "defense": "0.2",
+    "durability": 0,
+	"armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Jacket Svoboda"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.kyrtka.svoboda",
+        "displayName": "Jacket - Default"
+      }
+    ]
+}

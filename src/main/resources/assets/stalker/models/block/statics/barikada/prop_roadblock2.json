@@ -1,0 +1,15 @@
+{
+  "scale": 0.98,
+  "directions": 4,
+  "rotate": 90.0,
+  "model": "statics/barikada/prop_roadblock1",
+  "icon": "statics/barikada/prop_roadblock2",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/crete/crete_walls_02"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -1.5, 0, 1, 3],
+    "main2": [0, 0.5, -1.5, 0, 1, 3]
+  }
+}

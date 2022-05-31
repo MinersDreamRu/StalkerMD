@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/santechnika/umivalnik_trumo",
+  "light": 0,
+  "textures": {
+    "0.013": "addition/wood/wood_table_02",
+    "1.013": "addition/wood/wood_table_02",
+    "2.002": "addition/prop/prop_umivalnik_01",
+    "3": "addition/mtl/mtl_rja_02"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 1, 1],
+    "main2": [-0.5, 1, -0.5, 1, 1, 0]
+  }
+}

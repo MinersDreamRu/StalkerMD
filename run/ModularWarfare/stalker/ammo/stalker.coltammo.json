@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.coltammo",
+    "displayName": "Colt M1911 Mag 7rnd ",
+    "ammoCapacity": 7,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.45acp"
+    ],
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.ak74_762x54_ammo",
+    "displayName": "AK74 7.62x54 Mag 30rnd ",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.7_62x54"
+    ],
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_niva_2",
+  "light": 0,
+  "textures": {
+    "0.015": "statics/vehicles/cars/veh_niva",
+    "2.015": "statics/vehicles/cars/veh_niva"
+  },
+  "collision-boxes": {
+    "main1": [-1.9, 0, -0.5, 4, 2, 1]
+  }
+}

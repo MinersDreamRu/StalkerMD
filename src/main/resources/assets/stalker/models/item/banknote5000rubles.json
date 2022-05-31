@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1024, 1024],
+	"textures": {
+		"0": "stalker:items/banknote5000rubles",
+		"particle": "stalker:items/banknote5000rubles"
+	},
+	"elements": [
+		{
+			"from": [5.25, 0.25, 3],
+			"to": [10.25, 0.25, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 0.07813, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.14063, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.07813, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.14063, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 6.95316], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 8.9375, 15.98441, 16], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.25, 3.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.25, 3.25, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-155.75, 90, 55],
+			"translation": [-10, 2.5, -13.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 55],
+			"translation": [-10, 7.25, 0]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"gui": {
+			"rotation": [90, -90, 0],
+			"translation": [-0.5, 0, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

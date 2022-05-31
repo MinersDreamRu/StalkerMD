@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.mp5sdammo",
+    "displayName": "MP5SD Mag 30rnd ",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x19"
+    ],
+    "allowEmptyMagazines": true
+}

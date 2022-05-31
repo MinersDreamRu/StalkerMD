@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/technica/radiola",
+  "light": 0,
+  "textures": {
+    "0.008": "addition/prop/prop_audio_video",
+    "1.005": "addition/prop/prop_audio_video",
+    "2.003": "addition/prop/prop_audio_video"
+  },
+  "collision-boxes": {
+    "main1": [-0.2, 0.3, -0.5, 0, 0, 1],
+    "main2": [0.3, 0.7, -0.5, 0, 0, 1],
+    "main3": [-0.2, 0.7, -0.5, 0, 0, 1],
+    "main4": [0.3, 0.3, -0.5, 0, 0, 1],
+	"main5": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

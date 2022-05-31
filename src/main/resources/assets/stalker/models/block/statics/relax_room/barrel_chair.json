@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/relax_room/barrel_chair",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/mtl/mtl_barrel_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1],
+    "main2": [-0.5, 0.4, -0.5, 1, 0, 1],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

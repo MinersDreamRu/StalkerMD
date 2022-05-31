@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/shkaf/shelf_village_140x210_ph",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/wood/wood_table_02",
+    "1.004": "addition/wood/wood_table_02"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.3, 0, 2, 1],
+    "main2": [0, 0, -0.3, 0, 2, 1],
+    "main3": [-0.5, 0, -0.7, 0, 2, 1],
+    "main4": [0, 0, -0.7, 0, 2, 1]
+  }
+}

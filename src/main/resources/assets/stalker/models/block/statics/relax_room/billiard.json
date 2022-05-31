@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/relax_room/billiard",
+  "light": 0,
+  "textures": {
+    "0.010": "addition/prop/prop_biliard"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.8, -1, 1, 0, 2],
+    "main2": [0.4, 0, 1, 0, 1, 0],
+    "main3": [-0.4, 0, 1, 0, 1, 0],
+    "main4": [-0.4, 0, -1, 0, 1, 0],
+    "main5": [0.4, 0, -1, 0, 1, 0]
+  }
+}

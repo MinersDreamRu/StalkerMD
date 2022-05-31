@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.berettaammo",
+    "displayName": "Beretta Mag 15rnd ",
+    "ammoCapacity": 15,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x19"
+    ],
+    "allowEmptyMagazines": true
+}

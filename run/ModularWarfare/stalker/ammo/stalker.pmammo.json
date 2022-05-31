@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.pmammo",
+    "displayName": "PM Mag 8rnd ",
+    "ammoCapacity": 8,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x18"
+    ],
+    "allowEmptyMagazines": true
+}

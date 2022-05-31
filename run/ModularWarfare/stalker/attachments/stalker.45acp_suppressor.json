@@ -1,0 +1,15 @@
+{
+  "displayName": "45 ACP Suppressor",
+  "internalName": "stalker.45acp_suppressor",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.45acp_suppressor",
+      "displayName": "45 ACP Suppressor - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

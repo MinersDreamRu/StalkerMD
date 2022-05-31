@@ -1,0 +1,20 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/shkaf/shkaf_lab_01",
+  "light": 0,
+  "textures": {
+    "0.010": "addition/mtl/mtl_pod_01",
+    "1.005": "addition/mtl/mtl_pod_01_stears",
+    "2": "addition/prop/prop_pribori_face_01",
+    "3": "addition/prop/prop_pribori_02",
+    "4": "addition/prop/prop_pribori_face_01",
+    "5": "addition/prop/prop_grate_02"
+  },
+  "collision-boxes": {
+    "main1": [-0.6, 0.4, -1, 1, 2, 2],
+    "main2": [0.3, 1.4, -1.5, 0, 1, 1],
+    "main3": [-0.1, 1.4, -1.5, 0, 1, 1]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/technica/el_shkaf_02",
+  "light": 0,
+  "textures": {
+    "0.002": "addition/prop/prop_el_shkaf_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.3, 0.3, 0.2, 1, 2, 0],
+    "main2": [-0.3, 0.3, -0.3, 1, 2, 0],
+    "main3": [-0.7, 0.3, 0.2, 1, 2, 0],
+    "main4": [-0.6, 0.3, -0.3, 1, 2, 0]
+  }
+}

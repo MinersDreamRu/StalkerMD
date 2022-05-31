@@ -1,0 +1,71 @@
+{
+    "internalName": "stalker.toz34",
+    "displayName": "toz34",
+    "weaponType": "shotgun",
+
+    "gunDamage": 85,
+    "gunDamageHeadshotBonus": 40,
+    "roundsPerMin": 1000,
+
+    "allowEmptyMagazines": true,
+
+    "recoilPitch": 15.0,
+    "recoilYaw": 2.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 6,
+
+    "numBullets": 16,
+
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1.0,
+    "allowSprintFiring": true,
+
+    "fireModes": ["semi"],
+
+    "acceptedBullets": ["stalker.12gauge", "stalker.12sluggauge"],
+    "internalAmmoStorage": 2,
+    "reloadTime": 60,
+
+    "shellEjectOffsetNormal": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "acceptedAttachments": {},
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.toz34.shoot",
+                "soundNameDistant": "stalker.toz34.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponBulletLoad": [
+            {
+                "soundEvent": "weaponBulletLoad",
+                "soundName": "stalker.toz34.chamber"
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "stalker.toz34",
+            "skinAsset": "stalker.toz34",
+            "displayName": "Default"
+        },
+        {
+            "internalName": "stalker.toz34.urban",
+            "skinAsset": "stalker.toz34.urban",
+            "displayName": "Urban"
+        }
+    ]
+}

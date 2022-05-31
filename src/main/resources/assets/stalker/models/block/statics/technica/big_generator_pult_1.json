@@ -1,0 +1,13 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/technica/big_generator_pult_1",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_el_shkaf_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.1, -0.5, 0, 1, 1]
+  }
+}

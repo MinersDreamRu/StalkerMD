@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/relax_room/kalyan",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/mtl/mtl_rja_green",
+    "1.008": "addition/mtl/mtl_floor_plate_03"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1],
+    "main2": [0, 0.3, 0, 0, 0, 0]
+  }
+}

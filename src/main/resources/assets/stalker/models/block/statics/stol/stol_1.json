@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/stol/stol_1",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_pult4",
+	"1": "addition/mtl/mtl_rja_green",
+	"2": "addition/prop/prop_pult4"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.1, -1, 1, 1, 2]
+  }
+}

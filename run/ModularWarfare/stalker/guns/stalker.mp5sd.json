@@ -1,0 +1,76 @@
+{
+    "internalName": "stalker.mp5sd",
+    "displayName": "MP5SD",
+    "weaponType": "carbine",
+
+    "gunDamage": 35,
+    "gunDamageHeadshotBonus": 15,
+
+    "roundsPerMin": 350,
+
+    "allowEmptyMagazines": true,
+
+    "recoilPitch": 3.7,
+    "recoilYaw": 1.15,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1.0,
+
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1.0,
+    "allowSprintFiring": true,
+
+    "fireModes": ["full", "semi"],
+    "acceptedAmmo": ["stalker.mp5sdammo"],
+
+    "shellEjectOffsetNormal": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.mp5sd.shoot",
+                "soundNameDistant": "stalker.mp5sd.shoot.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.generic.reload",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "stalker.susat_scope",
+            "stalker.acog_scope",
+            "stalker.eotech_scope"
+        ]
+	},
+    "modelSkins": [
+        {
+            "internalName": "stalker.mp5sd",
+            "skinAsset": "stalker.mp5sd",
+            "displayName": "Default"
+        },
+        {
+            "internalName": "stalker.mp5sd.urban",
+            "skinAsset": "stalker.mp5sd.urban",
+            "displayName": "Urban"
+        }
+    ]
+}

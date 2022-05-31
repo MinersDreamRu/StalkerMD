@@ -1,0 +1,67 @@
+{
+    "internalName": "stalker.gauss",
+    "displayName": "Gauss",
+    "weaponType": "boltsniper",
+
+    "gunDamage": 120,
+    "gunDamageHeadshotBonus": 60,
+
+    "roundsPerMin": 25,
+
+    "allowEmptyMagazines": true,
+
+    "recoilPitch": 8.0,
+    "recoilYaw": 8.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1.0,
+
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1.0,
+    "allowSprintFiring": true,
+
+    "fireModes": ["semi"],
+    "acceptedAmmo": ["stalker.gaussammo"],
+
+    "shellEjectOffsetNormal": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": 0.0,
+        "y": -100.0,
+        "z": 0.0
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.gauss.shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.gauss.reload"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+		"sight": [
+            "stalker.eotech_scope",
+            "stalker.susat_scope",
+            "stalker.acog_scope"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "stalker.gauss",
+            "skinAsset": "stalker.gauss",
+            "displayName": "Default"
+        }
+    ]
+}

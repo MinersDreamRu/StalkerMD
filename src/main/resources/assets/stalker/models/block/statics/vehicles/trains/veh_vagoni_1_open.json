@@ -1,0 +1,24 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/trains/veh_vagoni_1_open",
+  "light": 0,
+  "textures": {
+    "0.001": "statics/vehicles/trains/veh_vagon1_01",
+    "1.001": "addition/wood/wood_walls8",
+    "2": "statics/vehicles/trains/veh_vagoni_cpm"
+  },
+  "collision-boxes": {
+    "main1": [-6.3, 0, -1, 8, 1, 2],
+    "main2": [1.2, 0, -1, 5, 1, 2],
+    "main3": [-6.3, 1, -1.2, 5, 3, 0],
+    "main4": [1.2, 1, -1.2, 5, 3, 0],
+    "main5": [-6.3, 1, 1.2, 5, 3, 0],
+    "main6": [0.2, 1, 1.2, 6, 3, 0],
+    "main7": [-6.3, 3, -1, 8, 1, 2],
+    "main8": [0.2, 3, -1, 6, 1, 2],
+    "main9": [6.2, 1, -1, 0, 3, 2],
+    "main10": [-6.3, 1, -1, 0, 3, 2]
+  }
+}

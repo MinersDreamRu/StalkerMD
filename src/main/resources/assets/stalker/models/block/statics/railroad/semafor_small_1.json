@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/railroad/semafor_small_1",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/prop/prop_railroad_light",
+    "1.003": "addition/crete/crete_beton_8",
+    "2.002": "addition/prop/prop_railroad_light"
+  },
+  "collision-boxes": {
+    "main1": [-0.2, 0, 0.1, 0, 1, 0],
+    "main2": [-0.2, 0, -0.1, 0, 1, 0],
+    "main3": [0.1, 0, -0.1, 0, 1, 0],
+    "main4": [0.1, 0, 0.1, 0, 1, 0]
+  }
+}

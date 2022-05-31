@@ -1,0 +1,65 @@
+{
+    "displayName": "Walter",
+    "internalName": "stalker.walter",
+	
+    "gunDamage": 35,
+    "gunDamageHeadshotBonus": 27,
+	
+    "roundsPerMin": 350,
+    "allowSprintFiring": true,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["stalker.walterammo"],
+    "fireModes": ["semi"],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "moveSpeedModifier": 1.1,
+
+    "randomRecoilPitch": 0.1,
+    "randomRecoilYaw": 0.1,
+    "moveSpeedModifier": 1.0,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.walter.shoot",
+                "soundNameDistant": "stalker.walter.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.walter.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "stalker.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "stalker.generic.load"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.walter.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "stalker.9mm_suppressor"
+        ]
+    }
+}

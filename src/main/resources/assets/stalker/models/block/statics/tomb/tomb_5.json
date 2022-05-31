@@ -1,0 +1,14 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/tomb/tomb_5",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-1.8, 0.1, -0.6, 2, 0, 1],
+    "main2": [-1.1, 0.3, -0.1, 1, 0, 0]
+  }
+}

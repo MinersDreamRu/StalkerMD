@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.zarya.dolg",
+    "defense": "0.53",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Zarya"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.zarya.dolg",
+        "displayName": "Zarya - Default"
+      }
+    ]
+}

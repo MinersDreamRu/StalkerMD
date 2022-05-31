@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/fireplace/fireplace_1",
+  "light": 0,
+  "textures": {
+    "0": "addition/briks/briks_inside_02",
+	"1": "addition/mtl/mtl_barrel_01",
+	"2": "addition/fx/fx_wood_fire",
+	"3": "addition/grnd/grnd_dry_gr_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.4, 0, 0, 0, 0]
+  }
+}

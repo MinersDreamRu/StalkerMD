@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/garage/garage_items_zaz_9",
+  "light": 0,
+  "textures": {
+    "0.007": "statics/vehicles/cars/veh_zaz_gorb",
+    "1.006": "statics/vehicles/cars/veh_zaz_gorb"
+  },
+  "collision-boxes": {
+    "main1": [-1.5, 0, -1, 2, 1, 2],
+	"main2": [0.5, 0.5, -1, 1, 0, 2]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 0.99, 0.0],
+  "model": "statics/light/light_galogen_2",
+  "icon": "statics/light/light_galogen_2_no",
+  "light": 0,
+  "textures": {
+    "0.006": "addition/mtl/mtl_tubes3b",
+    "0.007": "addition/mtl/mtl_tubes3b",
+    "0.000_0.008": "addition/mtl/mtl_tubes3b"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

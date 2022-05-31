@@ -1,0 +1,19 @@
+{
+    "internalName": "stalker.exoskelet",
+    "defense": "0.08",
+    "durability": 0,    "armorTypes": 
+    {
+        "legs":
+        {
+            "displayName": "Exoskelet",
+			"armorModels": ["bodyModel","rightArmModel","leftArmModel"]
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.exoskelet",
+        "displayName": "Exoskelet - Default"
+      }
+    ]
+}

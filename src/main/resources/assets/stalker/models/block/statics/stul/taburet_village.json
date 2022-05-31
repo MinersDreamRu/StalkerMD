@@ -1,0 +1,17 @@
+{
+  "scale": 1.1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/stul/taburet_village",
+  "light": 0,
+  "textures": {
+    "0.007": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [0.2, 0.5, 0.2, 0, 0, 0],
+    "main2": [-0.3, 0.5, -0.2, 0, 0, 0],
+    "main3": [-0.3, 0.5, 0.2, 0, 0, 0],
+    "main4": [0.2, 0.5, -0.2, 0, 0, 0],
+	"main5": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

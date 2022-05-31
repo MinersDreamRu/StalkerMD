@@ -1,0 +1,20 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/street/lep_electric_support_02",
+  "light": 0,
+  "textures": {
+    "0.015": "addition/mtl/mtl_rja_01",
+	"1.012": "addition/crete/crete_walls_02",
+	"2.006": "addition/mtl/mtl_rja_01",
+	"3.004": "addition/mtl/mtl_rja_02",
+	"4.001": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-3.3, 0, -0.6, 1, 19, 1],
+    "main2": [2.3, 0, -0.6, 1, 19, 1],
+    "main3": [-5, 11.6, -0.6, 10, 1, 1],
+    "main4": [-2.5, 10.6, -0.1, 5, 1, 0]
+  }
+}

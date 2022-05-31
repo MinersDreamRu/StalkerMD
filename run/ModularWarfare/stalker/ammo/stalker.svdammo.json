@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.svdammo",
+    "displayName": "SVD Mag 10rnd ",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.7_62x54"
+    ],
+    "allowEmptyMagazines": true
+}

@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/tubes/truba_metall_01",
+  "light": 0,
+  "textures": {
+    "0.002": "addition/mtl/mtl_floor_plate_03",
+	"1.002": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.3, -3.8, 1, 1, 7],
+    "main2": [-0.2, 0.7, -3.2, 1, 0, 7],
+    "main3": [-0.7, 0.7, -3.5, 1, 0, 7],
+    "main4": [-0.2, 0.2, -3.2, 1, 0, 7],
+    "main5": [-0.7, 0.2, -3.5, 1, 0, 7]
+  }
+}

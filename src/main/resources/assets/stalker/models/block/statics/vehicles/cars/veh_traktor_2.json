@@ -1,0 +1,21 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_traktor_2",
+  "light": 0,
+  "textures": {
+    "0.023": "statics/vehicles/cars/veh_traktor_br",
+    "2.018": "statics/vehicles/cars/veh_traktor_br"
+  },
+  "collision-boxes": {
+    "main1": [-1.5, 0.1, -1, 2, 1, 2],
+    "main2": [0.3, 1.3, 0.3, 1, 0, 0],
+	"main3": [0.3, 1.3, -0.3, 1, 0, 0],
+    "main4": [-1, 0, -0.5, 1, 2, 1],
+    "main5": [1, 0.5, 0.7, 0, 0, 0],
+    "main6": [0.6, 0.5, 0.7, 0, 0, 0],
+    "main7": [1, 0.5, -0.7, 0, 0, 0],
+    "main8": [0.6, 0.5, -0.7, 0, 0, 0]
+  }
+}

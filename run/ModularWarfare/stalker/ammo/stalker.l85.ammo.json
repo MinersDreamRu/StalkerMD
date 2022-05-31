@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.l85ammo",
+    "displayName": "L85 Mag 30rnd ",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.5_56x45"
+    ],
+    "allowEmptyMagazines": true
+}

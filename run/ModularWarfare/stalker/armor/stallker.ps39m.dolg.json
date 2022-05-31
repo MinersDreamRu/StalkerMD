@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.ps39m.dolg",
+    "defense": "0.67",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "PS39M DOLG"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.ps39m",
+        "displayName": "PS39M - Default"
+      }
+    ]
+}

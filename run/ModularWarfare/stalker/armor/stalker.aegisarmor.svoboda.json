@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.aegisarmor.svoboda",
+    "defense": "0.4",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Aegis"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.aegisarmor.svoboda",
+        "displayName": "Aegis - Default"
+      }
+    ]
+}

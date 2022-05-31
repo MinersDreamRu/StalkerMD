@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "translation": [0.45, 0.0, 0.0],
+  "icon": "statics/sign/sign_zapravka",
+  "light": 0,
+  "textures": {
+    "0.019": "addition/prop/prop_signs"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, 0, 1, 2, 0]
+  }
+}

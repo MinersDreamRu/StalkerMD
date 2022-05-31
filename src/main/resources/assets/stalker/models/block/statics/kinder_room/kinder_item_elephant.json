@@ -1,0 +1,27 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_elephant",
+  "light": 0,
+  "textures": {
+    "0.002": "addition/mtl/mtl_rja_02",
+    "1.001": "addition/mtl/mtl_pod_01_stears",
+    "2.001": "addition/mtl/mtl_rja_green",
+    "3.001": "addition/mtl/mtl_red_painted"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0, 0.7, 4, 3, 0],
+	"main2": [-1, 0, -0.7, 4, 3, 0],
+	"main3": [3.2, 0.2, -0.5, 0, 0, 1],
+	"main4": [2.7, 0.9, -0.5, 0, 0, 1],
+	"main5": [2.2, 1.6, -0.5, 0, 0, 1],
+	"main6": [1, 2, -0.5, 1, 0, 1],
+	"main7": [-1, 0.9, -0.5, 0, 0, 1],
+	"main8": [0, 1.7, -0.5, 0, 0, 1],
+	"main9": [-2, 0.3, -0.5, 0, 0, 1],
+	"main10": [-2.7, 0.1, -0.5, 0, 0, 1],
+	"main11": [-0.4, 1.4, -0.5, 0, 0, 1],
+	"main12": [0.1, 2.1, -0.5, 1, 0, 1]
+  }
+}

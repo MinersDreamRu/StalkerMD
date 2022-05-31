@@ -1,0 +1,21 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/street/stolb_s_fonaryami",
+  "light": 0,
+  "textures": {
+    "0.020": "addition/crete/crete_walls_02",
+	"1.016": "addition/mtl/mtl_barrel_04",
+	"2.007": "addition/mtl/mtl_rja_01",
+	"3.005": "addition/mtl/mtl_rja_02",
+	"4.002": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 9, 1],
+    "main2": [-1.5, 8.5, -0.5, 3, 1, 1],
+    "main3": [-1.5, 9.2, -1, 3, 0, 2],
+    "main4": [-1.5, 10.2, 0.7, 3, 0, 0],
+    "main5": [-1.5, 10.2, -0.7, 3, 0, 0]
+  }
+}

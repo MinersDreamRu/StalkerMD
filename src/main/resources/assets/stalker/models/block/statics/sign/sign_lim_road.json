@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/sign/sign_lim_road",
+  "light": 0,
+  "textures": {
+    "0.007": "addition/prop/prop_signs_04",
+    "1.002": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0.6, 0, 2, 0],
+    "main2": [0, 0, -0.6, 0, 2, 0],
+    "main3": [0, 2.1, -1, 0, 0, 2],
+    "main4": [0, 1.6, -1, 0, 0, 2]
+  }
+}

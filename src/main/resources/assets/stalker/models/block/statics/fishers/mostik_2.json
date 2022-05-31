@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/fishers/mostik_2",
+  "light": 0,
+  "textures": {
+    "0.016": "addition/wood/wood_collect",
+    "2.010": "addition/wood/wood_collect",
+    "3.008": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 1, 1]
+  }
+}

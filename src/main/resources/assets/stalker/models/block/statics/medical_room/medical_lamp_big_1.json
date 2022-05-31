@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/medical_room/medical_lamp_big_1",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/mtl/mtl_pod_01",
+	"1.008": "addition/prop/prop_railroad_light",
+	"2.006": "addition/mtl/mtl_pod_01",
+	"3": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.3, 0, 0, 2, 0],
+    "main2": [-0.3, 2.3, -1, 1, 0, 1],
+    "main3": [-0.6, 0.1, 0.2, 1, 0, 0],
+    "main4": [-0.6, 0.1, -0.2, 1, 0, 0]
+  }
+}

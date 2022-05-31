@@ -1,0 +1,19 @@
+{
+    "internalName": "stalker.aegisarmor.dolg",
+    "defense": "0.4",
+    "durability": 0,
+    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Aegis"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.aegisarmor.dolg",
+        "displayName": "Aegis - Default"
+      }
+    ]
+}

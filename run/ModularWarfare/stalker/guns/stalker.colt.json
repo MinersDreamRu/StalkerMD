@@ -1,0 +1,68 @@
+{
+    "displayName": "Colt M1911",
+    "internalName": "stalker.colt",
+	
+    "gunDamage": 45,
+    "gunDamageHeadshotBonus": 27,
+	
+    "roundsPerMin": 350,
+    "allowSprintFiring": true,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["stalker.coltammo"],
+    "fireModes": ["semi"],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "moveSpeedModifier": 1.1,
+
+    "randomRecoilPitch": 0.1,
+    "randomRecoilYaw": 0.1,
+    "moveSpeedModifier": 1.0,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.colt.shoot",
+                "soundNameDistant": "stalker.colt.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.colt.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "stalker.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "stalker.generic.load"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.colt.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "stalker.docter_sight_mini"
+        ],
+        "barrel": [
+            "stalker.45acp_suppressor"
+        ]
+    }
+}

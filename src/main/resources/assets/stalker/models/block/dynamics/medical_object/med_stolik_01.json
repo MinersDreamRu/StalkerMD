@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "dynamics/medical_object/med_stolik_01",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/mtl/mtl_pod_01_stears",
+    "1.003": "addition/mtl/mtl_barrel_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 1, 1]
+  }
+}

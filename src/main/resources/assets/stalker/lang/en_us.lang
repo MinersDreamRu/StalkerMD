@@ -1,0 +1,212 @@
+# DAMAGE SOURCES
+death.attack.fromAnomalies=%1$s погиб в аномалии.
+death.attack.fromChemAnomalies=%1$s растворило в аномалии.
+death.attack.fromThermAnomalies=%1$s превратился в уголёк аномалии. 
+death.attack.fromExplosionAnomalies=%1$s разорвало в аномалии.
+death.attack.fromElectricalAnomalies=%1$s убило током в аномалии.
+death.attack.fromBlowout=%1$s погиб во время выброса.
+death.attack.fromPsiZone=%1$s превратился в овоща.
+death.attack.fromRadZone=%1$s превратился в светлячка от излучения.
+death.attack.fromChemZone=%1$s выплюнул свои лёгкие в аномальной зоне.
+death.attack.fromThermZone=%1$s истлел в аномальной зоне.
+
+# TITLE
+stalker.radiation=Ваше облучение: (%d/%d)
+stalker.blowout.message1=КПК: Всем кто меня слышит! приближается выброс! Срочно ищите надёжное убежище! (%d/5)
+stalker.blowout.message2=КПК: Выброс уже близко! (%d/5)
+stalker.blowout.message3=КПК: Всем кто меня слышит! Выброс вот-вот начнётся, все срочно ищите надёжное убежище! (%d/5)
+stalker.blowout.message4=КПК: Выброс нача... (%d/5)
+stalker.blowout.message5=КПК: *Связь потеряна* (%d/5)
+stalker.blowout.finish=КПК: Выброс закончился! Надеюсь не кто не пострадал?
+stalker.blowout.safety=Вы в безопасности, выброса можно не боятся!
+
+# MESSAGES
+# COMMANDS
+command.reloadconfig=Конфиги перезапущены!
+
+# CREATIVE TAB
+
+itemGroup.STALKER_ANOMALIES=S.T.A.L.K.E.R. Аномалии
+itemGroup.STALKER_BLOCK=S.T.A.L.K.E.R. Блоки
+itemGroup.STALKER_DECO=S.T.A.L.K.E.R. Декорации
+itemGroup.STALKER_QUEST=S.T.A.L.K.E.R. Квестовое
+itemGroup.STALKER_FOOD=S.T.A.L.K.E.R. Еда
+itemGroup.STALKER_MEDICINES=S.T.A.L.K.E.R. Медикаменты
+itemGroup.STALKER_OTHER=S.T.A.L.K.E.R. Другое
+itemGroup.STALKER_ARMOR=S.T.A.L.K.E.R. Броня
+itemGroup.STALKER_WEAPONS=S.T.A.L.K.E.R. Оружие
+itemGroup.STALKER_AMMO=S.T.A.L.K.E.R. Боеприпасы
+itemGroup.STALKER_ATTACHMENTS=S.T.A.L.K.E.R. Обвесы
+
+# ITEMS
+item.geigercounter.name=Счётчик гейгера
+item.firstaidkit.name=Аптечка
+item.armyfirstaidkit.name=Армейская аптечка
+item.scrientificfirstaidkit.name=Научная аптечка
+item.antirad.name=Антирадин
+item.vodka.name=Водка
+item.bandage.name=Бинт
+item.sausage.name=Колбаса
+item.cannedfood.name=Банка консерв
+item.energydrink.name=Энергетик
+
+item.banknote10rubles.name=10 Рублей
+item.banknote50rubles.name=50 Рублей
+item.banknote100rubles.name=100 Рублей
+item.banknote200rubles.name=200 Рублей
+item.banknote500rubles.name=500 Рублей
+item.banknote1000rubles.name=1000 Рублей
+item.banknote2000rubles.name=2000 Рублей
+item.banknote5000rubles.name=5000 Рублей
+
+item.detectorresponse.name=Детектор "Отклик"
+item.detectorbear.name=Детектор "Медведь"
+item.detectorveles.name=Детектор "Велес"
+item.prototypedetectorsvarog.name=Прототип детектора "Сварог"
+
+item.jellyfish.name=«Медуза»
+item.stoneflower.name=«Каменный цветок»
+item.crystal.name=«Кристалл»
+item.bloodofstone.name=«Кровь камня»
+item.sparkler.name=«Бенгальский огонь»
+item.battery.name=«Батарейка»
+item.soul.name=«Душа»
+item.momsbeads.name=«Мамины бусы»
+item.nightstar.name=«Ночная звезда»
+item.twist.name=«Выверт»
+item.moonlight.name=«Лунный свет»
+item.fireball.name=«Огненный шар»
+item.chunkofmeat.name=«Ломоть мяса»
+item.flash.name=«Вспышка»
+item.dummy.name=«Пустышка»
+item.gingerbreadman.name=«Колобок»
+item.eye.name=«Глаз»
+item.gravi.name=«Грави»
+item.bubble.name=«Пузырь»
+item.snowflake.name=«Снежинка»
+item.firefly.name=«Светляк»
+item.flame.name=«Пламя»
+item.goldfish.name=«Золотая рыбка»
+item.artcompass.name=«Компас»
+item.heartoasis.name=«Сердце оазиса»
+
+# BLOCKS
+tile.locationtransition.name=Локационный блок
+tile.safezone.name=Безопасная зона
+tile.radiation1lvl.name=Зона радиации 1 Уровня
+tile.radiation2lvl.name=Зона радиации 2 Уровня
+tile.radiation3lvl.name=Зона радиации 3 Уровня
+tile.psi1lvl.name=Зона пси-излучения 1 Уровня
+tile.psi2lvl.name=Зона пси-излучения 2 Уровня
+tile.psi3lvl.name=Зона пси-излучения 3 Уровня
+tile.chem1lvl.name=Зона химического воздействия 1 Уровня
+tile.chem2lvl.name=Зона химического воздействия 2 Уровня
+tile.chem3lvl.name=Зона химического воздействия 3 Уровня
+tile.heat1lvl.name=Зона термического воздействия 1 Уровня
+tile.heat2lvl.name=Зона термического воздействия 2 Уровня
+tile.heat3lvl.name=Зона термического воздействия 3 Уровня
+
+tile.anomaly_springboard.name=Аномалия трамплин
+tile.anomaly_funnel.name=Аномалия воронка
+tile.anomaly_border.name=Аномалия граница(адм)
+tile.anomaly_frying.name=Аномалия жарка
+tile.anomaly_steam.name=Аномалия пар
+tile.anomaly_electra.name=Аномалия электра
+tile.anomaly_jelly.name=Аномалия кисель
+tile.anomaly_soda.name=Аномалия газировка
+tile.heartgravitationalanomaly.name=Сердце гравитационной аномалии
+tile.heartthermicanomaly.name=Сердце термической аномалии
+tile.heartchemicalanomaly.name=Сердце химической аномалии
+tile.heartelectricalanomaly.name=Сердце электрической аномалии
+
+tile.bar_table.name=Барный стол
+tile.satchel.name=Сумка
+tile.doccase.name=Кейс с документами
+
+tile.stash.name=Тайник
+tile.barrel1.name=Бочка 1
+tile.barrel2.name=Бочка 2
+tile.barrel3.name=Бочка 3
+tile.barrel4.name=Бочка 4
+tile.table.name=Стол 1
+tile.table2.name=Стол 2
+tile.concreteblock1.name=Бетонный блок 1
+tile.concreteblock2.name=Бетонный блок 2
+tile.door_mtl_1.name=Калитка 1
+tile.door_mtl_2.name=Калитка 2
+tile.door_mtl_3.name=Калитка 3
+tile.door_bunker_close.name=Дверь Бункера 1
+tile.door_bunker_open.name=Дверь Бункера 2
+tile.gaz_plita.name=Газовая плита
+tile.notebook.name=Ноутбук
+tile.notebook45.name=Ноутбук 45
+tile.fenceangle.name=Забор (Угол)
+tile.fence1.name=Забор (1)
+tile.fence2.name=Забор (2)
+tile.fence3.name=Забор (3)
+tile.fence4.name=Забор (4)
+tile.roadblock.name=Бетонное перекрытие дороги
+tile.box.name=Бетонное перекрытие дороги
+
+
+# DISCRIPTION
+stash.message.isnotempty=Тайник найден!
+stash.message.isempty=Тайник пуст!
+
+anomaly.message.isnotempty=Вы нашли артефакт!
+anomaly.message.isempty=В анольманой зоне остуствуют артефакты!
+
+player.group=Групировка
+player.weight=Вес:
+player.balance=Баланс:
+player.currency=руб
+weight.unit=кг
+armor.group.name.none=Отсутствует
+
+item.rarity=Качество: 
+item.rarity.uncommon=Необычный
+item.rarity.rare=Раритетный
+item.rarity.epic=Эпический
+item.rarity.mythical=Мистический
+item.rarity.legendary=Легендарный
+
+armor.specifications=Характеристики:
+armor.specifications.maxhealth=Макс. здоровье: 
+armor.specifications.protection=Защита: 
+armor.specifications.burnProtection=Ожог: 
+armor.specifications.electroshockProtection=Электрошок:
+armor.specifications.chemicalBurnProtection=Хим. ожог:
+armor.specifications.explosionProtection=Взрыв:
+armor.specifications.psiProtection=Телепатия:
+armor.specifications.radiationProtection=Радиация:
+armor.specifications.weightBonus=Переносимый вес:
+stalker.stackweight=Вес стака: 
+stalker.itemweight=Вес предмета: 
+
+artefact.characteristics=Свойства артефакта:
+artefact.radiation=Радиация:
+artefact.metabolism=Метаболизм:
+artefact.speed=Скорость:
+artefact.health=Здоровье:
+artefact.radiationprotection=Радиозащита:
+artefact.psiresilience=Телепатия:
+artefact.heatresistance=Ожог:
+artefact.chemsteadiness=Хим. Ожог
+artefact.electricalresistance=Электрошок
+artefact.tensilestrength=Разрыв:
+artefact.weightbonus=Переносимый вес:
+
+#КПК
+stalker.pda.ButtonMap=Карта
+stalker.pda.ButtonQuests=Задания
+stalker.pda.ButtonHealth=Здоровье
+stalker.pda.Relationship=Отношения
+stalker.pda.missingQuests=ЗАДАНИЯ НЕ НАЙДЕНЫ
+
+stalker.pda.questType.0=Задание на предмет:
+stalker.pda.questType.1=Задание на диалог:
+stalker.pda.questType.2=Задание на убийство:
+stalker.pda.questType.3=Задание на локацию:
+stalker.pda.questType.4=Задание на убийство в зоне:
+stalker.pda.questType.5=КАКАЯ ТО ХУЙНЯ:
+stalker.pda.nosignal=НЕТ СИГНАЛА!

@@ -1,0 +1,14 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 90.0,
+  "model": "statics/vehicles/lorry/veh_lorry",
+  "icon": "statics/vehicles/lorry/veh_lorry_2",
+  "light": 0,
+  "textures": {
+    "0": "statics/vehicles/lorry/veh_lorry_2"
+  },
+  "collision-boxes": {
+    "main1": [-1.5, 0, -0.5, 3, 2, 1]
+  }
+}

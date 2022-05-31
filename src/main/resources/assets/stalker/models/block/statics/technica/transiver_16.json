@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/technica/transiver_16",
+  "light": 0,
+  "textures": {
+    "0.014": "addition/prop/prop_pult4",
+    "1.010": "addition/mtl/mtl_pod_01",
+    "2.007": "addition/prop/prop_krisagenerator"
+  },
+  "collision-boxes": {
+    "main1": [0.1, 0.3, 0.2, 0, 0, 0],
+    "main2": [-0.1, 0.3, -0.2, 0, 0, 0],
+    "main3": [-0.1, 0.3, 0.2, 0, 0, 0],
+    "main4": [0.1, 0.3, -0.2, 0, 0, 0],
+	"main5": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

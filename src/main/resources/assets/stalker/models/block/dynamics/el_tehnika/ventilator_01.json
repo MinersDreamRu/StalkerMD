@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 16,
+  "rotate": 270.0,
+  "icon": "dynamics/el_tehnika/ventilator_01",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/prop/prop_iten4",
+	"1.002": "addition/prop/prop_iten4"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

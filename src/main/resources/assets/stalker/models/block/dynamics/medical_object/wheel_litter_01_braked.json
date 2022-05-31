@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "dynamics/medical_object/wheel_litter_01_braked",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/mtl/mtl_pod_01",
+    "1.005": "addition/mtl/mtl_pod_01_stears",
+    "2.003": "addition/mtl/mtl_barrel_01",
+    "3.003": "addition/prop/prop_brezent"
+  },
+  "collision-boxes": {
+    "main1": [-0.2, 0, -0.5, 1, 1, 1]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 16,
+  "rotate": 90.0,
+  "model": "statics/dead_body/skelet_crash",
+  "icon": "statics/dead_body/skelet_crash_2",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/act/act_skeleton_fresh"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0.2, 0, 2, 0, 0],
+	"main2": [-1, 0, -0.5, 2, 0, 1]
+  }
+}

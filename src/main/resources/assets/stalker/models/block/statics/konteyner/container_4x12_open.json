@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/konteyner/container_4x12_open",
+  "light": 0,
+  "textures": {
+    "1.014": "addition/mtl/mtl_big_containers_a"
+  },
+  "collision-boxes": {
+    "main1": [-4.2, 0.1, -1.5, 8, 0, 3],
+	"main2": [-4.2, 3.1, -1.5, 8, 0, 3],
+	"main3": [-5.5, 0, 1.3, 9, 3, 0],
+	"main4": [-5.5, 0, -1.3, 9, 3, 0],
+	"main5": [4, 0, -1.5, 0, 3, 3]
+  }
+}

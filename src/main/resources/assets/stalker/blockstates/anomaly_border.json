@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "anomalystage=0": { "model": "stalker:anomaly_border" },
+        "anomalystage=1": { "model": "stalker:anomaly_border" },
+        "anomalystage=2": { "model": "stalker:anomaly_border" },
+        "anomalystage=3": { "model": "stalker:anomaly_border" },
+        "anomalystage=4": { "model": "stalker:anomaly_border" }
+    }
+}

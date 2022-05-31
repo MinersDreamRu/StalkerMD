@@ -1,0 +1,29 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/barikada/blockpost_bar_2",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/crete/crete_walls_02",
+    "1.001": "addition/sign/sign_stop",
+    "2.001": "addition/mtl/mtl_pod_01",
+    "3.001": "addition/mtl/mtl_pod_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 1, 1],
+    "main2": [0, 1.3, -0.5, 0, 0, 0],
+    "main3": [0, 1.6, -1, 0, 0, 0],
+    "main4": [0, 1.9, -1.5, 0, 0, 0],
+    "main5": [0, 2.2, -2, 0, 0, 0],
+    "main6": [0, 2.5, -2.5, 0, 0, 0],
+    "main7": [0, 2.8, -3, 0, 0, 0],
+    "main8": [0, 3.1, -3.5, 0, 0, 0],
+    "main9": [0, 3.4, -4, 0, 0, 0],
+    "main10": [0, 3.7, -4.5, 0, 0, 0],
+    "main11": [0, 4, -5, 0, 0, 0],
+    "main12": [0, 4.3, -5.5, 0, 0, 0],
+    "main13": [0, 4.6, -6, 0, 0, 0],
+    "main14": [0, 4.7, -6.2, 0, 0, 0]
+  }
+}

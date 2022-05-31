@@ -1,0 +1,15 @@
+{
+  "displayName": "5.56x45 Suppressor",
+  "internalName": "stalker.556_45_suppressor",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.556_45_suppressor",
+      "displayName": "5.56x45 Suppressor - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

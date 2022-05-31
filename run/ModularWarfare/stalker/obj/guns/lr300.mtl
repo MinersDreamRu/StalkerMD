@@ -1,0 +1,67 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl (null).001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl material0.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MCModding\\ModularWarfare\\run\\ModularWarfare\\stalker\\assets\\modularwarfare\\skins\\guns\\stalker.lr300.png
+
+newmtl material1.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MCModding\\ModularWarfare\\run\\ModularWarfare\\stalker\\assets\\modularwarfare\\skins\\guns\\stalker.addon.m203.png
+
+newmtl material3.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MCModding\\ModularWarfare\\run\\ModularWarfare\\stalker\\assets\\modularwarfare\\skins\\guns\\stalker.addon.sil_nato.png
+
+newmtl material4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MCModding\\ModularWarfare\\run\\ModularWarfare\\stalker\\assets\\modularwarfare\\skins\\attachments\\stalker.barska.png
+
+newmtl material5.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\MCModding\\ModularWarfare\\run\\ModularWarfare\\stalker\\assets\\modularwarfare\\skins\\guns\\stalker.lr300.png

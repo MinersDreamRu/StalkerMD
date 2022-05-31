@@ -1,0 +1,7 @@
+{
+  "internalName": "stalker.gaussbullet",
+  "maxStackSize": 64,
+  "displayName": "Gauss Bullet",
+  
+  "bulletDamageFactor": 1
+}

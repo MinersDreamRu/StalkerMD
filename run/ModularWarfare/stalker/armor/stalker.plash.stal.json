@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.plash.stal",
+    "defense": "0.23",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Plash"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.plash.stal",
+        "displayName": "Cloak - Default"
+      }
+    ]
+}

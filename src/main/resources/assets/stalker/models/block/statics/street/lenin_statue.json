@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/street/lenin_statue",
+  "light": 0,
+  "textures": {
+    "lenin1": "addition/prop/prop_lenin_statue"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -1, 1, 4, 2],
+    "main2": [-0.5, 3.7, -1, 1, 1, 2],
+    "main3": [-0.5, 3.9, -2, 0, 1, 2],
+    "main4": [-0.5, 4.5, -0.5, 1, 1, 1],
+    "main5": [0, 3.8, -1.6, 0, 1, 2],
+    "main6": [-0.8, 5, -2.4, 0, 0, 1],
+    "main7": [-0.7, 3.6, -0.2, 0, 0, 1]
+  }
+}

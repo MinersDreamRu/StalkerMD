@@ -1,0 +1,18 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/fishers/fishers_lodka_1",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/wood/wood_fence_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.2, 0.2, -1, 0, 1, 2],
+	"main2": [-3.2, 0.2, -1, 0, 1, 2],
+	"main3": [-3, 0.2, 1, 5, 1, 0],
+	"main4": [-3, 0.2, -1, 5, 1, 0],
+	"main5": [2, 0.2, -1, 0, 1, 2],
+	"main6": [2, 1.2, -0.5, 1, 0, 1]
+  }
+}

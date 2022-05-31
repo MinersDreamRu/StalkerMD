@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.aegisarmor5",
+    "defense": "0.4",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Aegis"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.aegisarmor5",
+        "displayName": "Aegis - Default"
+      }
+    ]
+}

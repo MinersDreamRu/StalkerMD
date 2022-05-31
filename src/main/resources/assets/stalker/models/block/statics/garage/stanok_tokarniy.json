@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/garage/stanok_tokarniy",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/mtl/mtl_ventel",
+    "1.008": "addition/mtl/mtl_rja_green",
+    "2": "addition/mtl/mtl_floor_plate_03",
+    "3": "addition/mtl/mtl_rja_02",
+    "4": "addition/mtl/mtl_rja_green",
+    "5": "addition/mtl/mtl_rja_02"
+  },
+  "collision-boxes": {
+    "main1": [-1, 1, -0.5, 2, 0, 1]
+  }
+}

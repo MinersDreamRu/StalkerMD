@@ -1,0 +1,23 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_ekskavator",
+  "light": 0,
+  "textures": {
+    "0.007": "statics/vehicles/cars/veh_ekskavator",
+    "1.007": "statics/vehicles/cars/veh_ekskavator",
+    "2.007": "statics/vehicles/cars/veh_ekskavator"
+  },
+  "collision-boxes": {
+    "main1": [-3.1, 0.2, 1, 6, 1, 1],
+    "main2": [-3.1, 0.2, -2, 6, 1, 1],
+    "main3": [-1.5, 0.5, -1, 3, 1, 2],
+    "main4": [-0.5, 1.2, -2, 3, 2, 4],
+    "main5": [-2.5, 1, 0, 2, 3, 2],
+    "main6": [-1.5, 1.5, -2, 1, 1, 2],
+    "main7": [-7.5, 3, -0.6, 5, 1, 1],
+    "main8": [-8, 2, -0.6, 1, 1, 1],
+    "main9": [-9, 1, -0.6, 1, 1, 1]
+  }
+}

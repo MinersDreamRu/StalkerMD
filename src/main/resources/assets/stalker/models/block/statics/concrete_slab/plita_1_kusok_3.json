@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/concrete_slab/plita_1_kusok_3",
+  "light": 0,
+  "textures": {
+    "0.031": "addition/crete/crete_beton_lom",
+    "1.027": "addition/crete/crete_walls_02"
+  },
+  "collision-boxes": {
+    "main1": [-2.7, 0.4, -1.4, 5, 2, 3]
+  }
+}

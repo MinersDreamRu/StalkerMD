@@ -1,0 +1,20 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/street/doska_pocheta",
+  "light": 0,
+  "textures": {
+    "0.006": "addition/mtl/mtl_rja_01",
+	"1.003": "addition/mtl/mtl_pod_01_stears",
+	"2.001": "addition/mtl/mtl_pod_01",
+	"3": "addition/mtl/mtl_wall_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 1, 0, 2, 1, 0],
+    "main2": [0.3, 0, 0, 0, 3, 0],
+    "main3": [0.5, 0.4, 0, 0, 2, 0],
+    "main4": [0, 0.4, 0, 0, 3, 0],
+    "main5": [2.1, 0, 0, 0, 2, 0]
+  }
+}

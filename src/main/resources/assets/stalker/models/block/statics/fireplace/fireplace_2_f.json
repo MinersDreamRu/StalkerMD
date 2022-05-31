@@ -1,0 +1,24 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "model": "statics/fireplace/fireplace_2",
+  "icon": "statics/fireplace/fireplace_2_f",
+  "light": 10,
+  "effects": [
+    {
+      "name": "example_effect",
+      "scale": 1.0,
+      "position": [0.0, 0.3, 0.0]
+    }
+  ],
+  "textures": {
+    "0.002": "addition/fx/fx_wood_fire",
+	"1.002": "addition/briks/briks_inside_02",
+	"2.002": "addition/mtl/mtl_rja_01",
+	"3.002": "addition/grnd/grnd_dry_gr_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.4, 0, 0, 0, 0]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/street/stolbik",
+  "light": 0,
+  "textures": {
+	"0.021": "addition/prop/prop_lamppost"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 1, 0],
+	"main2": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

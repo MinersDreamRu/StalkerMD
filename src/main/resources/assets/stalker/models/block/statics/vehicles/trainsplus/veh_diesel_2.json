@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 0.45, 0.0],
+  "model": "statics/vehicles/trains/veh_diesel_2",
+  "icon": "statics/vehicles/trainsplus/veh_diesel_2",
+  "light": 0,
+  "textures": {
+    "0": "statics/vehicles/trains/veh_diesel_2"
+  },
+  "collision-boxes": {
+    "main1": [-7.8, 0, -1.3, 16, 4, 2],
+    "main2": [-7.8, 0, 0.3, 16, 4, 1],
+    "main3": [-5.8, 3.4, -0.5, 12, 1, 1]
+  }
+}

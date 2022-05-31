@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "model": "ex/fargry/zabor_wood/zabor_r",
+  "icon": "ex/fargry/zabor_wood/2_zabor_r",
+  "light": 0,
+  "textures": {
+    "0": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 1, 0],
+    "main2": [0, 0, -0.4, 0, 1, 0],
+    "main3": [0.4, 0, 0, 0, 1, 0],
+    "main4": [0, 0.6, 0, 0, 1, 0],
+    "main5": [0, 0.6, -0.4, 0, 1, 0],
+    "main6": [0.4, 0.6, 0, 0, 1, 0]
+  }
+}

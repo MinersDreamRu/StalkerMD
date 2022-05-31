@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_tanchik_2",
+  "light": 0,
+  "textures": {
+    "0.020": "statics/vehicles/cars/veh_tanchik"
+  },
+  "collision-boxes": {
+    "main1": [-3.3, 0.2, -1.9, 8, 2, 4],
+    "main2": [-1, 2, -0.9, 3, 1, 2],
+    "main3": [2, 2.3, -0.4, 2, 0, 0],
+    "main4": [5.5, 2, -0.9, 2, 0, 0],
+    "main5": [4, 2.2, -0.6, 2, 0, 0]
+  }
+}

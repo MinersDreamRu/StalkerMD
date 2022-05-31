@@ -1,0 +1,20 @@
+{
+  "scale": 1.2,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/port_items/ship_control_panel_6",
+  "light": 0,
+  "textures": {
+	"0.012": "addition/mtl/mtl_wall_01",
+	"1.012": "addition/mtl/mtl_barrel_01",
+	"2.012": "addition/prop/prop_pult5"
+  },
+  "collision-boxes": {
+    "main1": [0.2, 0, -0.5, 0, 1, 1],
+	"main2": [-0.2, 0.9, -0.5, 0, 0, 1],
+	"main3": [-0.1, 0, 0.6, 0, 1, 0],
+	"main4": [-0.1, 0, -0.6, 0, 1, 0],
+	"main5": [0.3, 0, -0.6, 0, 1, 0],
+	"main6": [0.3, 0, 0.6, 0, 1, 0]
+  }
+}

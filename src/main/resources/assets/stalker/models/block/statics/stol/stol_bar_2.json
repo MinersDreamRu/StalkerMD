@@ -1,0 +1,19 @@
+{
+  "scale": 0.8,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/stol/stol_bar_2",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/mtl/mtl_barrel_01",
+	"1.004": "addition/wood/wood_board_02",
+	"2.002": "addition/wood/wood_collect",
+	"3": "addition/wood/wood_collect",
+	"4": "addition/wood/wood_collect",
+	"5": "addition/mtl/mtl_barrel_01",
+	"6": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0.2, -0.5, 2, 1, 1]
+  }
+}

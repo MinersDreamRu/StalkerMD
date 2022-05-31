@@ -24,3 +24,21 @@ eclipse
 #run
 
 *.bat
+
+#run
+run/.mixin.out
+run/armor
+run/config
+run/crash-reports
+run/customnpcs
+run/journeymap
+run/logs
+run/playerdata
+run/saves
+run/screenshots
+run/world
+run/*.json
+run/*.zip
+run/*.jar
+run/*.dat
+run/*.txt

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "stalker:doccase" },
+        "facing=south": { "model": "stalker:doccase", "y": 180 },
+        "facing=east": { "model": "stalker:doccase", "y": 90 },
+        "facing=west": { "model": "stalker:doccase", "y": 270 }
+    }
+}

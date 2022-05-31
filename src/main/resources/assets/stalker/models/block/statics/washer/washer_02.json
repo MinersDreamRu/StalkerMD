@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/washer/washer_02",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_pribori_face_01",
+	"1": "addition/mtl/mtl_barrel_02",
+	"2": "addition/mtl/mtl_pod_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 1, 1],
+    "main2": [-0.5, 1.6, -0.5, 1, 0, 1]
+  }
+}

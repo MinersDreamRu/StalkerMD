@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "dynamics/stul/child_bench",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/mtl/mtl_tubes3b"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1],
+    "main2": [0.2, 0.5, -1, 0, 0, 2],
+    "main3": [-0.2, 0.5, -1, 0, 0, 2]
+  }
+}

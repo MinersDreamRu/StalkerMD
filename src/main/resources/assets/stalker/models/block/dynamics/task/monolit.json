@@ -1,0 +1,13 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "dynamics/task/monolit",
+  "light": 7,
+  "textures": {
+    "0": "addition/prop/prop_monolit"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.3, 0, 2, 5, 2]
+  }
+}

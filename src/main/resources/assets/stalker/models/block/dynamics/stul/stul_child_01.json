@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 16,
+  "rotate": 270.0,
+  "icon": "dynamics/stul/stul_child_01",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/mtl/mtl_tubes3b"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1],
+    "main2": [0, 0.3, 0, 0, 0, 0]
+  }
+}

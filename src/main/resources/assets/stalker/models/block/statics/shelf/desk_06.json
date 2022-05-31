@@ -1,0 +1,22 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/shelf/desk_06",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/mtl/mtl_rja_02",
+    "1.001": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0.6, -2, 1, 0, 4],
+    "main2": [-1, 1.5, -2, 1, 0, 4],
+    "main3": [-1, 2.3, -2, 1, 0, 4],
+    "main4": [0, 0, -2.2, 0, 4, 0],
+    "main5": [-0.8, 0, -2.2, 0, 4, 0],
+    "main6": [-0.8, 0, 0, 0, 4, 0],
+    "main7": [0, 0, 0, 0, 4, 0],
+    "main8": [0, 0, 2.2, 0, 4, 0],
+    "main9": [-0.8, 0, 2.2, 0, 4, 0]
+  }
+}

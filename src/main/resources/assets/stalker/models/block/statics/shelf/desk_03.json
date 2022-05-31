@@ -1,0 +1,22 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/shelf/desk_03",
+  "light": 0,
+  "textures": {
+    "0": "addition/wood/wood_collect",
+    "1": "addition/mtl/mtl_pod_01"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0.6, -4.1, 1, 0, 8],
+    "main2": [-1, 1.2, -4.1, 1, 0, 8],
+    "main3": [-1, 1.8, -4.1, 1, 0, 8],
+    "main4": [-1, 2.3, -4.1, 1, 0, 8],
+    "main5": [-1, 2.8, -4.1, 1, 0, 8],
+    "main6": [0, 0, -3.7, 0, 4, 0],
+    "main7": [-0.8, 0, -3.7, 0, 4, 0],
+    "main8": [-0.8, 0, 3.5, 0, 4, 0],
+    "main9": [0, 0, 3.5, 0, 4, 0]
+  }
+}

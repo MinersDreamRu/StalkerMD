@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.deserteagleammo",
+    "displayName": "Desert Eagle Mag 7rnd ",
+    "ammoCapacity": 8,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.45acp"
+    ],
+    "allowEmptyMagazines": true
+}

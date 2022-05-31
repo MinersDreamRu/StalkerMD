@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_zaz968_2",
+  "light": 0,
+  "textures": {
+    "0.028": "statics/vehicles/cars/veh_zaz968",
+    "1.028": "statics/vehicles/cars/veh_zaz968"
+  },
+  "collision-boxes": {
+    "main1": [-2, 0.1, -1, 4, 1, 2],
+    "main2": [-1.2, 0.6, -0.5, 2, 1, 1]
+  }
+}

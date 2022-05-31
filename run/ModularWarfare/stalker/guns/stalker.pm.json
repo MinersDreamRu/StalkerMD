@@ -1,0 +1,65 @@
+{
+    "displayName": "PM",
+    "internalName": "stalker.pm",
+	
+    "gunDamage": 35,
+    "gunDamageHeadshotBonus": 25,
+		
+    "roundsPerMin": 250,
+    "allowSprintFiring": true,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["stalker.pmammo"],
+    "fireModes": ["semi"],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "moveSpeedModifier": 1.1,
+
+    "randomRecoilPitch": 0.1,
+    "randomRecoilYaw": 0.1,
+    "moveSpeedModifier": 1.0,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.pm.shoot",
+                "soundNameDistant": "stalker.pm.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.pm.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "stalker.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "stalker.generic.load"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.pm.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "stalker.9mm_suppressor"
+        ]
+    }
+}

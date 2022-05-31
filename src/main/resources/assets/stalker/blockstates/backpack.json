@@ -1,0 +1,22 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "custom": { "flip-v": true },
+    "model": "stalker:backpack.obj"
+  },
+  "variants": {
+	  "facing":{
+		"east":{
+			"y":90
+		},
+		"west":{
+			"y":270
+		},
+		"north":{
+		},
+		"south":{
+			"y":180
+		}
+	  }
+  }
+}

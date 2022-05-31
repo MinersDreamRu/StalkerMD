@@ -1,0 +1,16 @@
+{
+  "displayName": "ACOG Scope",
+  "internalName": "stalker.acog_scope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.acog_scope",
+      "displayName": "ACOG Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "4x",
+    "sensivityScopeFactor": 1.3,
+    "dotColorType": "red"
+  }
+}

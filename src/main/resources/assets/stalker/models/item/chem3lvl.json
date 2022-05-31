@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "stalker:items/icons/chem3lvl"
+    },
+    "display": { }
+}

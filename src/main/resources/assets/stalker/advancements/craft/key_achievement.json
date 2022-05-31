@@ -1,0 +1,24 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:wool",
+            "data": 6
+        },
+        "title": {
+            "translate": "advancements.tutorial.key.title"
+        },
+        "description": {
+            "translate": "advancements.tutorial.key.description"
+        },
+        "frame": "goal"
+    },
+    "parent": "rebr:craft/root",
+    "criteria": {
+        "recipe_unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "rebr:key"
+            }
+        }
+    }
+}

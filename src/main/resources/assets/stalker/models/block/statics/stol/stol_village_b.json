@@ -1,0 +1,16 @@
+{
+  "scale": 0.99,
+  "directions": 4,
+  "rotate": 270.0,
+  "translation": [0.0, 0.0, -0.5],
+  "icon": "statics/stol/stol_village_b",
+  "light": 0,
+  "textures": {
+    "0.007": "addition/wood/wood_board_02",
+	"1.005": "addition/wood/wood_collect",
+	"2.003": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -1, 1, 1, 2]
+  }
+}

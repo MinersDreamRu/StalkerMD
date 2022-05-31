@@ -1,0 +1,78 @@
+{
+    "internalName": "stalker.svd",
+    "displayName": "SVD",
+    "weaponType": "dmr",
+
+    "gunDamage": 80,
+    "gunDamageHeadshotBonus": 40,
+
+    "roundsPerMin": 200,
+
+    "allowEmptyMagazines": true,
+
+    "recoilPitch": 8.0,
+    "recoilYaw": 8.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 1.0,
+
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1.0,
+    "allowSprintFiring": true,
+
+    "fireModes": ["semi"],
+    "acceptedAmmo": ["stalker.svdammo"],
+
+    "shellEjectOffsetNormal": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.svd.shoot",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.svd.reload"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.svd.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "stalker.762_54_suppressor"
+        ],
+        "sight": [
+            "stalker.pso_scope",
+            "stalker.ekp_scope"
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "stalker.svd",
+            "skinAsset": "stalker.svd",
+            "displayName": "Default"
+        }
+    ]
+}

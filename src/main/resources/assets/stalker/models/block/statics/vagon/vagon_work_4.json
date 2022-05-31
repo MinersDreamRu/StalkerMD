@@ -1,0 +1,20 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/vagon/vagon_work_4",
+  "light": 0,
+  "textures": {
+    "0": "addition/veh/veh_vagon1_02"
+  },
+  "collision-boxes": {
+    "main1": [0.8, 0, -1, 1, 1, 2],
+    "main2": [-2.2, 0, -1, 1, 1, 2],
+    "main3": [-0.8, 1.5, -1.2, 3, 2, 2],
+    "main4": [-2.2, 1.5, -1.2, 2, 2, 2],
+    "main5": [-0.8, 1.5, -0.8, 3, 2, 2],
+    "main6": [-2.2, 1.5, -0.8, 2, 2, 2],
+    "main7": [-0.2, 0.6, -1, 1, 0, 2],
+    "main8": [-2, 1, -1, 4, 1, 2]
+  }
+}

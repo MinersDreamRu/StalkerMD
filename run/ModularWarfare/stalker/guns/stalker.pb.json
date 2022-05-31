@@ -1,0 +1,58 @@
+{
+    "displayName": "PB",
+    "internalName": "stalker.pb",
+	
+    "gunDamage": 30,
+    "gunDamageHeadshotBonus": 27,
+		
+    "roundsPerMin": 250,
+    "allowSprintFiring": true,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["stalker.pmammo"],
+    "fireModes": ["semi"],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "moveSpeedModifier": 1.1,
+
+    "randomRecoilPitch": 0.1,
+    "randomRecoilYaw": 0.1,
+    "moveSpeedModifier": 1.0,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.pb.shoot",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.pb.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "stalker.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "stalker.generic.load"
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "sight": [
+            "stalker.docter_sight_mini"
+        ],
+        "barrel": [
+            "stalker.pistol_suppressor"
+        ]
+    }
+}

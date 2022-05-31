@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/santechnika/umivalnik_na_derevo",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/wood/wood_collect",
+    "1.011": "addition/mtl/mtl_rja_02",
+    "2": "addition/grnd/grnd_dirt_dust_01"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.3, -0.3, 0, 0, 0]
+  }
+}

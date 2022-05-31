@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.heavysuit.dolg",
+    "defense": "0.83",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Heavysuit"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.heavysuit.dolg",
+        "displayName": "Heavysuit - Default"
+      }
+    ]
+}

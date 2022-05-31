@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/santechnika/umivalnik_trumo_village",
+  "light": 0,
+  "textures": {
+    "0.016": "addition/wood/wood_collect",
+    "1.015": "addition/mtl/mtl_rja_01",
+    "2.004": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 1, 1],
+    "main2": [-0.5, 1, -0.5, 1, 1, 0],
+    "main3": [0, 1.4, -0.1, 0, 0, 0]
+  }
+}

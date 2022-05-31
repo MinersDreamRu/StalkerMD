@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "translation": [0.5, 0, 0.0],
+  "icon": "statics/light/light_road",
+  "light": 0,
+  "textures": {
+    "0.010": "addition/mtl/mtl_barrel_01",
+    "1.006": "addition/prop/prop_item3"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -0.5, 0, 1, 1]
+  }
+}

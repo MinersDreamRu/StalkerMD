@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 180.0,
+  "icon": "statics/fireplace/ritual_fire_3",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/mtl/mtl_rja_01",
+	"1.005": "addition/act/act_trupik"
+  },
+  "collision-boxes": {
+    "main1": [0.4, 0, 0, 0, 1, 0],
+	"main2": [-0.7, 0, 0.3, 0, 1, 0],
+	"main3": [-0.1, 0, 0.2, 0, 1, 0]
+  }
+}

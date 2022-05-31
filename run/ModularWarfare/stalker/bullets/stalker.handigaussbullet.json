@@ -1,0 +1,7 @@
+{
+  "internalName": "stalker.handigaussbullet",
+  "maxStackSize": 64,
+  "displayName": "Handi Gaus Bullet",
+  
+  "bulletDamageFactor": 0.75
+}

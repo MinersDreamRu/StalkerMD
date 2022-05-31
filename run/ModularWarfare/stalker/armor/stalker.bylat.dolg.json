@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.bylat.dolg",
+    "defense": "0.71",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Bylat"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.bylat.dolg",
+        "displayName": "Bylat - Default"
+      }
+    ]
+}

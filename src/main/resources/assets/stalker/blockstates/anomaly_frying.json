@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "anomalystage=0": { "model": "stalker:frying" },
+        "anomalystage=1": { "model": "stalker:frying_1" },
+        "anomalystage=2": { "model": "stalker:frying_1" },
+        "anomalystage=3": { "model": "stalker:frying_1" }
+    }
+}

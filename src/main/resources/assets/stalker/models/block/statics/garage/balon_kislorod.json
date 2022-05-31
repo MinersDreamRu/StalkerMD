@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/garage/balon_kislorod",
+  "light": 0,
+  "textures": {
+    "0": "addition/mtl/mtl_ventel",
+    "1": "addition/mtl/mtl_red_painted"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 2, 0],
+	"main2": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

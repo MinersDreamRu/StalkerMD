@@ -1,0 +1,20 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/shelf/shelf_lab_02",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/mtl/mtl_rja_02",
+    "1.003": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.8, -1, 1, 0, 2],
+    "main2": [-0.5, 1.6, -1, 1, 0, 2],
+    "main3": [-0.5, 2.5, -1, 1, 0, 2],
+    "main4": [0.5, 0, -0.8, 0, 3, 0],
+    "main5": [-0.5, 0, -0.8, 0, 3, 0],
+    "main6": [-0.5, 0, 0.8, 0, 3, 0],
+    "main7": [0.5, 0, 0.8, 0, 3, 0]
+  }
+}

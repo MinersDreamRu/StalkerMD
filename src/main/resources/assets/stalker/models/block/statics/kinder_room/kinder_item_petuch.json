@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_petuch",
+  "light": 0,
+  "textures": {
+    "0.009": "addition/mtl/mtl_red_painted",
+    "1.007": "addition/mtl/mtl_rja_green",
+    "2.007": "addition/mtl/mtl_rja_green"
+  },
+  "collision-boxes": {
+    "main1": [-1.5, 0, 0, 3, 3, 0]
+  }
+}

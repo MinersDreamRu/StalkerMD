@@ -1,0 +1,21 @@
+{
+  "scale": 0.6,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/street/el_stolb_wood",
+  "light": 0,
+  "textures": {
+    "0.012": "addition/mtl/mtl_rja_01",
+	"1.009": "addition/mtl/mtl_rja_02",
+	"2.003": "addition/crete/crete_walls_02",
+	"3.001": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [0.1, 0, -0.3, 0, 12, 0],
+    "main2": [-0.1, 0, -0.3, 0, 12, 0],
+    "main3": [0.1, 0, -0.1, 0, 12, 0],
+    "main4": [-0.1, 0, -0.1, 0, 12, 0],
+    "main5": [-1, 11.5, -0.1, 2, 1, 0],
+    "main6": [-1, 11.5, -0.3, 2, 1, 0]
+  }
+}

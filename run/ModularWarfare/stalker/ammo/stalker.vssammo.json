@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.vssammo",
+    "displayName": "VSS Mag 10rnd ",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x39"
+    ],
+    "allowEmptyMagazines": true
+}

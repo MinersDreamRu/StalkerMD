@@ -1,0 +1,18 @@
+{
+  "scale": 0.5,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 2, 0.0],
+  "icon": "statics/light/light_big_1",
+  "light": 9,
+  "textures": {
+    "2.003": "addition/mtl/mtl_tubes3b",
+    "3.002": "addition/mtl/mtl_rja_02",
+    "4.001": "addition/mtl/mtl_pod_01",
+    "5.001": "addition/mtl/mtl_rja_green",
+    "lamp1_6.001": "addition/prop/prop_lamp_default"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

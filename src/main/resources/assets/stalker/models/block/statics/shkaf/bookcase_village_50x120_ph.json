@@ -1,0 +1,21 @@
+{
+  "scale": 2,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/shkaf/bookcase_village_50x120_ph",
+  "light": 0,
+  "textures": {
+    "0": "addition/wood/wood_table_02",
+    "1": "addition/wood/wood_table_02"
+  },
+  "collision-boxes": {
+    "main1": [-0.2, 0.2, 0.2, 0, 1, 0],
+    "main2": [0.2, 0.2, 0.2, 0, 1, 0],
+    "main3": [0.2, 0.2, -0.2, 0, 1, 0],
+    "main4": [-0.2, 0.2, -0.2, 0, 1, 0],
+	"main5": [0, 0, 0.2, 0, 1, 0],
+    "main6": [0, 0, -0.2, 0, 1, 0],
+    "main7": [-0.1, 0, 0, 0, 1, 0],
+	"main8": [0.1, 0, 0, 0, 1, 0]
+  }
+}

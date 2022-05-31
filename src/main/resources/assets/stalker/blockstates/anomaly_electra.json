@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "anomalystage=0": { "model": "stalker:electra_0" },
+        "anomalystage=1": { "model": "stalker:electra_1" },
+        "anomalystage=2": { "model": "stalker:electra_2" },
+        "anomalystage=3": { "model": "stalker:electra_3" },
+        "anomalystage=4": { "model": "stalker:electra_4" },
+        "anomalystage=5": { "model": "stalker:electra_5" },
+        "anomalystage=6": { "model": "stalker:electra_6" },
+        "anomalystage=7": { "model": "stalker:electra_7" },
+        "anomalystage=8": { "model": "stalker:electra_8" },
+        "anomalystage=9": { "model": "stalker:electra_9" },
+        "anomalystage=10": { "model": "stalker:electra_10" },
+        "anomalystage=11": { "model": "stalker:electra_11" },
+        "anomalystage=12": { "model": "stalker:electra_12" }
+    }
+}

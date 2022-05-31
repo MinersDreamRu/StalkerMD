@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/trade_shops/shop_counter_1",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/mtl/mtl_rja_02",
+    "1.008": "addition/wood/wood_table_02",
+    "2.006": "addition/mtl/mtl_tubes3b"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0, -1.5, 1, 0, 3],
+    "main2": [-1, 0.3, -1.5, 1, 0, 3],
+    "main3": [-1, 0.6, -1.5, 1, 0, 3],
+    "main4": [-0.5, 0.3, -1.5, 0, 1, 3],
+    "main5": [-0.8, 1.3, -1.5, 0, 0, 3]
+  }
+}

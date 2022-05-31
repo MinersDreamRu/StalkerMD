@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_moskvitch_2",
+  "light": 0,
+  "textures": {
+    "0.010": "statics/vehicles/cars/veh_moskvitch_01",
+    "1.010": "statics/vehicles/cars/veh_moskvitch_01"
+  },
+  "collision-boxes": {
+    "main1": [-1.3, 0, 0, 2, 1, 1],
+    "main2": [-2, 0, -0.5, 4, 1, 1],
+    "main3": [-2, 0.6, -0.5, 4, 1, 1]
+  }
+}

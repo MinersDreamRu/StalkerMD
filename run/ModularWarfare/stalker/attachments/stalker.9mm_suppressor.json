@@ -1,0 +1,15 @@
+{
+  "displayName": "9mm Suppressor",
+  "internalName": "stalker.9mm_suppressor",
+  "attachmentType": "barrel",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.9mm_suppressor",
+      "displayName": "9mm Suppressor - Default"
+    }
+  ],
+  "barrel": {
+    "isSuppressor": true,
+    "hideFlash": true
+  }
+}

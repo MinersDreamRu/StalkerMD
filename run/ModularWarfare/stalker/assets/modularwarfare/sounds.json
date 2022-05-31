@@ -1,0 +1,345 @@
+{
+  "stalker.an94.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/shot"
+    ]
+  },
+  "stalker.an94.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/shot_sil"
+    ]
+  },
+  "stalker.an94.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:an94/reload"
+    ]
+  },
+  "stalker.pm.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pm/shot"
+    ]
+  },
+  "stalker.pm.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pm/reload"
+    ]
+  },
+  "stalker.pb.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pb/shot"
+    ]
+  },
+  "stalker.pb.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:pb/reload"
+    ]
+  },
+  "stalker.beretta.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta/shot"
+    ]
+  },
+  "stalker.beretta.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta/shot_sil"
+    ]
+  },
+  "stalker.beretta.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:beretta/reload"
+    ]
+  },
+  "stalker.usp.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp/shot"
+    ]
+  },
+  "stalker.usp.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp/shot_sil"
+    ]
+  },
+  "stalker.usp.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:usp/reload"
+    ]
+  },
+  "stalker.colt.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:colt/shot"
+    ]
+  },
+  "stalker.colt.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:colt/shot_sil"
+    ]
+  },
+  "stalker.colt.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:colt/reload"
+    ]
+  },
+  "stalker.walter.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walter/shot"
+    ]
+  },
+  "stalker.walter.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walter/reload"
+    ]
+  },
+  "stalker.walter.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:walter/shot_sil"
+    ]
+  },
+  "stalker.ak74.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74/shot"
+    ]
+  },
+  "stalker.ak74.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74/shot_sil"
+    ]
+  },
+  "stalker.ak74.shoot_762x54": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74/shot_762x54"
+    ]
+  },
+  "stalker.ak74.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74/reload"
+    ]
+  },
+  "stalker.ak74u.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/shot"
+    ]
+  },
+  "stalker.ak74u.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/shot_sil"
+    ]
+  },
+  "stalker.ak74u.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:ak74u/reload"
+    ]
+  },
+  "stalker.lr300.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:lr300/shot"
+    ]
+  },
+  "stalker.lr300.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:lr300/shot_sil"
+    ]
+  },
+  "stalker.lr300.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:lr300/reload"
+    ]
+  },
+  "stalker.svu.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svu/shot"
+    ]
+  },
+  "stalker.svu.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svu/reload"
+    ]
+  },
+  "stalker.svd.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/shot"
+    ]
+  },
+  "stalker.svd.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/reload"
+    ]
+  },
+  "stalker.svd.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svd/shot_sil"
+    ]
+  },
+  "stalker.svt.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svt/shot"
+    ]
+  },
+  "stalker.svt.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svt/reload"
+    ]
+  },
+  "stalker.svt.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:svt/shot_sil"
+    ]
+  },
+  "stalker.gauss.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:gauss/shot"
+    ]
+  },
+  "stalker.gauss.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:gauss/reload"
+    ]
+  },
+  "stalker.vss.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vss/shot"
+    ]
+  },
+  "stalker.vss.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:vss/reload"
+    ]
+  },
+  "stalker.asval.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:asval/shot"
+    ]
+  },
+  "stalker.asval.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:asval/reload"
+    ]
+  },
+  "stalker.mp5sd.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5sd/shot"
+    ]
+  },
+  "stalker.mp5sd.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:mp5sd/reload"
+    ]
+  },
+  "stalker.deserteagle.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:deserteagle/shot"
+    ]
+  },
+  "stalker.deserteagle.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:deserteagle/reload"
+    ]
+  },
+  "stalker.sig550.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/shot"
+    ]
+  },
+  "stalker.sig550.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/shot_sil"
+    ]
+  },
+  "stalker.sig550.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:sig550/reload"
+    ]
+  },
+  "stalker.spas12.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:spas12/shot"
+    ]
+  },
+  "stalker.spas12.chamber": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:spas12/load"
+    ]
+  },
+  "stalker.spas12.pump": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:spas12/pump"
+    ]
+  },
+  "stalker.toz34.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:toz34/shot"
+    ]
+  },
+  "stalker.l85.shoot": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:l85/shot"
+    ]
+  },
+  "stalker.l85.shoot.sup": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:l85/shot_sil"
+    ]
+  },
+  "stalker.l85.reload": {
+    "category": "player",
+    "sounds": [
+      "modularwarfare:l85/reload"
+    ]
+  }
+}
+

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "stalker:bar_table" },
+        "facing=south": { "model": "stalker:bar_table", "y": 180 },
+        "facing=east": { "model": "stalker:bar_table", "y": 90 },
+        "facing=west": { "model": "stalker:bar_table", "y": 270 }
+    }
+}

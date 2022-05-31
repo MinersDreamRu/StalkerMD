@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/sign/sign_radiation",
+  "light": 0,
+  "textures": {
+    "0.015": "addition/mtl/mtl_pod_01_stears",
+    "1.006": "addition/sign/sign_radiation"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 2, 0],
+    "main2": [0, 1, -0.5, 0, 1, 1]
+  }
+}

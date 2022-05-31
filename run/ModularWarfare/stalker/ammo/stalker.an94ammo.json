@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.an94ammo",
+    "displayName": "AN94 Mag 30rnd ",
+    "ammoCapacity": 30,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.7_62x39"
+    ],
+    "allowEmptyMagazines": true
+}

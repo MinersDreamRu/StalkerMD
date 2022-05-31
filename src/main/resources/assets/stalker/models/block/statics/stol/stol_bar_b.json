@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "translation": [0.0, 0.0, -0.5],
+  "model": "statics/stol/stol_bar",
+  "icon": "statics/stol/stol_bar_b",
+  "light": 0,
+  "textures": {
+    "0.004": "addition/wood/wood_board_02",
+	"1.003": "addition/wood/wood_collect",
+	"2.001": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.2, -1, 1, 1, 2]
+  }
+}

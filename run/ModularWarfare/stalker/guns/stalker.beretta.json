@@ -1,0 +1,65 @@
+{
+    "displayName": "Beretta",
+    "internalName": "stalker.beretta",
+	
+    "gunDamage": 30,
+    "gunDamageHeadshotBonus": 27,
+	
+    "roundsPerMin": 350,
+    "allowSprintFiring": true,
+    "allowEmptyMagazines": true,
+    "weaponType": "pistol",
+    "acceptedAmmo": ["stalker.berettaammo"],
+    "fireModes": ["semi"],
+    "recoilPitch": 0.2,
+    "recoilYaw": 0.2,
+    "moveSpeedModifier": 1.1,
+
+    "randomRecoilPitch": 0.1,
+    "randomRecoilYaw": 0.1,
+    "moveSpeedModifier": 1.0,
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.beretta.shoot",
+                "soundNameDistant": "stalker.beretta.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponReload": [
+            {
+                "soundEvent": "weaponReload",
+                "soundName": "stalker.beretta.reload"
+            }
+        ],
+        "weaponUnload": [
+            {
+                "soundEvent": "weaponUnload",
+                "soundName": "stalker.generic.unload"
+            }
+        ],
+        "weaponLoad": [
+            {
+                "soundEvent": "weaponLoad",
+                "soundName": "stalker.generic.load"
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.beretta.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ]
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "stalker.9mm_suppressor"
+        ]
+    }
+}

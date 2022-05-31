@@ -1,0 +1,13 @@
+{
+  "scale": 1.2,
+  "directions": 16,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/rails/psw1r",
+  "light": 0,
+  "textures": {
+    "Box1215": "statics/vehicles/rails/rails_tracks"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0, 2, 1, 0, 1]
+  }
+}

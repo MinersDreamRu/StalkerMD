@@ -1,0 +1,90 @@
+{
+    "internalName": "stalker.spas12",
+    "displayName": "SPAS12",
+    "weaponType": "shotgun",
+
+    "gunDamage": 85,
+    "gunDamageHeadshotBonus": 40,
+    "roundsPerMin": 100,
+
+    "allowEmptyMagazines": true,
+
+    "recoilPitch": 15.0,
+    "recoilYaw": 2.5,
+    "randomRecoilPitch": 0.8,
+    "randomRecoilYaw": 0.8,
+    "bulletSpread": 8,
+
+    "numBullets":16,
+
+    "accuracySneakFactor": 0.5,
+    "moveSpeedModifier": 1.0,
+    "allowSprintFiring": true,
+
+    "fireModes": ["semi"],
+
+    "acceptedBullets": ["stalker.12gauge", "stalker.12sluggauge"],
+    "internalAmmoStorage": 6,
+    "reloadTime": 60,
+
+    "shellEjectOffsetNormal": {
+        "x": -1.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "shellEjectOffsetAiming": {
+        "x": -0.2,
+        "y": 0.12,
+        "z": 0.5
+    },
+    "acceptedAttachments": {
+        "barrel": [
+            "stalker.shotgun_suppressor"
+        ]
+    },
+    "weaponSoundMap": {
+        "weaponFire": [
+            {
+                "soundEvent": "weaponFire",
+                "soundName": "stalker.spas12.shoot",
+                "soundNameDistant": "stalker.spas12.distant",
+                "soundRange": 64,
+                "soundMaxRange": 96,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponFireSuppressed": [
+            {
+                "soundEvent": "weaponFireSuppressed",
+                "soundName": "stalker.spas12.shoot.sup",
+                "soundRange": 30,
+                "soundMaxRange": 30,
+                "soundFadeMultiplier": 1
+            }
+        ],
+        "weaponBolt": [
+            {
+                "soundEvent": "weaponBolt",
+                "soundName": "stalker.spas12.pump"
+            }
+        ],
+        "weaponBulletLoad": [
+            {
+                "soundEvent": "weaponBulletLoad",
+                "soundName": "stalker.spas12.chamber"
+            }
+        ]
+    },
+    "modelSkins": [
+        {
+            "internalName": "stalker.spas12",
+            "skinAsset": "stalker.spas12",
+            "displayName": "Default"
+        },
+        {
+            "internalName": "stalker.spas12.urban",
+            "skinAsset": "stalker.spas12.urban",
+            "displayName": "Urban"
+        }
+    ]
+}

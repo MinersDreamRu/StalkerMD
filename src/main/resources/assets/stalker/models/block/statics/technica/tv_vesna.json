@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/technica/tv_vesna",
+  "light": 0,
+  "textures": {
+    "0.015": "addition/prop/prop_audio_video",
+    "1.011": "addition/prop/prop_audio_video",
+    "2.008": "addition/prop/prop_audio_video"
+  },
+  "collision-boxes": {
+    "main1": [0.3, 0, -0.5, 0, 1, 1],
+    "main2": [-0.2, 0, -0.5, 0, 1, 1],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_wire",
+  "light": 0,
+  "textures": {
+    "0.012": "addition/mtl/mtl_red_painted",
+    "1.009": "addition/mtl/mtl_red_painted",
+    "2.009": "addition/mtl/mtl_rja_green"
+  },
+  "collision-boxes": {
+    "main1": [-1.5, 0, 0, 3, 2, 0],
+	"main2": [0.7, 2.5, 0, 1, 0, 0]
+  }
+}

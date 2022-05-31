@@ -1,0 +1,13 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/garage/garbage_39",
+  "light": 0,
+  "textures": {
+    "0.009": "statics/vehicles/cars/veh_kamaz_u_br"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.2, -0.5, 1, 0, 1]
+  }
+}

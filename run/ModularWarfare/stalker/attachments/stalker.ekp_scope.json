@@ -1,0 +1,16 @@
+{
+  "displayName": "EKP Scope",
+  "internalName": "stalker.ekp_scope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.ekp_scope",
+      "displayName": "EKP Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "reddot",
+    "sensivityScopeFactor": 0.9,
+    "dotColorType": "red"
+  }
+}

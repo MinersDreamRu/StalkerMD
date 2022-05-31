@@ -1,0 +1,14 @@
+{
+  "scale": 0.97,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "dynamics/kitchen_room/freezer",
+  "light": 0,
+  "textures": {
+    "0": "addition/mtl/mtl_rja_02",
+    "1": "addition/prop/prop_freez"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 2, 1]
+  }
+}

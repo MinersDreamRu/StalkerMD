@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.uspammo",
+    "displayName": "USP Mag 12rnd ",
+    "ammoCapacity": 12,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.45acp"
+    ],
+    "allowEmptyMagazines": true
+}

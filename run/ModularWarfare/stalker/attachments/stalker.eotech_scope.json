@@ -1,0 +1,16 @@
+{
+  "displayName": "EOTech Scope",
+  "internalName": "stalker.eotech_scope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.eotech_scope",
+      "displayName": "EOTech Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "reddot",
+    "sensivityScopeFactor": 1.3,
+    "dotColorType": "red"
+  }
+}

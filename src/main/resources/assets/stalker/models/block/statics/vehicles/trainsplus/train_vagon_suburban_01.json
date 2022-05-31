@@ -1,0 +1,28 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 0.45, 0.0],
+  "model": "statics/vehicles/trains/train_vagon_suburban_01",
+  "icon": "statics/vehicles/trainsplus/train_vagon_suburban_01",
+  "light": 0,
+  "textures": {
+    "0.003": "statics/vehicles/trains/veh_vagon_03",
+    "1.003": "statics/vehicles/trains/veh_vagon_03",
+    "2.001": "statics/vehicles/trains/veh_vagon_03"
+  },
+  "collision-boxes": {
+    "main1": [-12.5, 0, -2, 25, 1, 4],
+    "main2": [-12.5, 4.1, -2, 25, 0, 4],
+    "main3": [12.5, 1, -2, 0, 3, 4],
+    "main4": [-12.5, 1, -2, 0, 3, 1],
+    "main5": [-12.5, 1, 1, 0, 3, 1],
+    "main6": [-12.5, 1, -2, 23, 1, 1],
+    "main7": [-12.5, 1, 1, 25, 1, 1],
+	"main8": [10, 1.5, 1.8, 2, 2, 0],
+	"main9": [-12, 1.5, 1.8, 2, 2, 0],
+	"main10": [-12, 1.5, -1.8, 2, 2, 0],
+	"main11": [-10.5, 3.5, 0.8, 21, 0, 1],
+    "main12": [-10.5, 3.5, -1.8, 21, 0, 1]
+  }
+}

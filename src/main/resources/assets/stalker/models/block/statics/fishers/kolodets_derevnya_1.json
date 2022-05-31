@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/fishers/kolodets_derevnya_1",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/crete/crete_beton_8",
+    "1.001": "addition/mtl/mtl_rja_green",
+    "2.001": "addition/wood/wood_collect",
+    "3": "addition/water/water_water"
+  },
+  "collision-boxes": {
+    "main1": [0, 1.2, -1, 0, 1, 2],
+	"main2": [-1, 0, -1, 2, 1, 2]
+  }
+}

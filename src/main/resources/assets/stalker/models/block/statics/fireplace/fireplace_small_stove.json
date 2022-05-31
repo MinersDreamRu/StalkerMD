@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/fireplace/fireplace_small_stove",
+  "light": 0,
+  "textures": {
+    "0.007": "addition/prop/prop_small_stove",
+	"1.007": "addition/fx/fx_wood_fire"
+  },
+  "collision-boxes": {
+	"main1": [0.3, 0, 0, 0, 1, 0],
+	"main2": [-0.3, 0, 0, 0, 1, 0],
+	"main3": [0, 0, 0.3, 0, 1, 0],
+	"main4": [0, 0, -0.3, 0, 1, 0]
+  }
+}

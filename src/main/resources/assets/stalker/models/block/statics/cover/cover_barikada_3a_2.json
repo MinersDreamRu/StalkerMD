@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "model": "statics/cover/cover_barikada_3a",
+  "icon": "statics/cover/cover_barikada_3a_2",
+  "light": 0,
+  "textures": {
+    "0": "addition/wood/wood_board_02"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.2, -0.5, 0, 1, 1],
+    "main2": [-0.5, 0, -0.5, 1, 0, 0],
+    "main3": [-0.5, 1.1, -0.5, 1, 0, 0],
+    "main4": [-0.5, 1.1, 0.5, 1, 0, 0],
+    "main5": [-0.5, 0.1, 0.5, 1, 0, 0]
+  }
+}

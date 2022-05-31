@@ -1,0 +1,18 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_buldozer",
+  "light": 0,
+  "textures": {
+    "0.006": "statics/vehicles/cars/veh_buldozer",
+    "1.006": "statics/vehicles/cars/veh_buldozer",
+    "2.006": "statics/vehicles/cars/veh_buldozer",
+    "3.006": "statics/vehicles/cars/veh_buldozer_kovsh"
+  },
+  "collision-boxes": {
+    "main1": [-2, 0, -1, 5, 1, 2],
+    "main2": [0, 0, -0.5, 2, 2, 1],
+    "main3": [-1.3, 1, -1, 1, 2, 2]
+  }
+}

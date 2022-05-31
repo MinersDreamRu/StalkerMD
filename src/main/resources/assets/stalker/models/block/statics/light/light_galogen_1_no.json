@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "translation": [0.5, 0, 0.0],
+  "model": "statics/light/light_galogen_1",
+  "icon": "statics/light/light_galogen_1_no",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/mtl/mtl_pod_01_stears"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, 0, 1, 1, 0]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_basketball",
+  "light": 0,
+  "textures": {
+    "0.001": "addition/mtl/mtl_pod_01",
+    "1": "addition/wood/wood_plank8",
+    "2": "addition/mtl/mtl_rja_02",
+    "3": "addition/mtl/mtl_red_painted"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 6, 0],
+	"main2": [0.1, 4, -1, 2, 1, 2],
+	"main3": [2.2, 3.5, -1, 0, 2, 2],
+	"main4": [2.6, 4.1, 0, 0, 0, 0],
+	"main5": [3, 4, 0, 0, 0, 0]
+  }
+}

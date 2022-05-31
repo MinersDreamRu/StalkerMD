@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "back-cullface": true,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_kamaz_u_br",
+  "light": 0,
+  "textures": {
+    "0": "statics/vehicles/cars/veh_kamaz_u_br"
+  },
+  "collision-boxes": {
+    "main1": [-4.5, 0, -1.2, 6, 4, 2],
+    "main2": [-4.5, 0, 0.1, 6, 4, 1],
+    "main3": [1.2, 0, -1, 3, 3, 2]
+  }
+}

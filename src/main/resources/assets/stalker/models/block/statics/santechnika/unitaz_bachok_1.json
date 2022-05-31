@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "icon": "statics/santechnika/unitaz_bachok_1",
+  "light": 0,
+  "textures": {
+    "0.021": "addition/prop/prop_unitaz_old"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 1, -0.5, 1, 1, 0],
+    "main2": [0, 0.3, 0, 0, 0, 0],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]	
+  }
+}

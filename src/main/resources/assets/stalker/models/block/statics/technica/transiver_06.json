@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/technica/transiver_06",
+  "light": 0,
+  "textures": {
+    "0.011": "addition/prop/prop_pribori_02",
+    "1.007": "addition/prop/prop_pribori_face_01",
+    "2.005": "addition/prop/prop_pult4"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.5, -0.3, 1, 0, 0],
+	"main2": [-0.5, 0.5, 0.3, 1, 0, 0],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

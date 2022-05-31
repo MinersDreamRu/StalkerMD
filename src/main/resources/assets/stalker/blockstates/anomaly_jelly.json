@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "anomalystage=0": { "model": "stalker:jelly" },
+        "anomalystage=1": { "model": "stalker:jelly" },
+        "anomalystage=2": { "model": "stalker:jelly" },
+        "anomalystage=3": { "model": "stalker:jelly" },
+        "anomalystage=4": { "model": "stalker:jelly" },
+        "anomalystage=5": { "model": "stalker:jelly" }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "scale": 0.99,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 0.0, -0.5],
+  "icon": "statics/cover/cover_tree_7",
+  "light": 0,
+  "textures": {
+    "0.010": "addition/wood/wood_collect"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -1, 0, 1, 2]
+  }
+}

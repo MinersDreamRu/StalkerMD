@@ -1,0 +1,13 @@
+{
+  "scale": 0.8,
+  "directions": 16,
+  "rotate": 90.0,
+  "icon": "dynamics/kitchen_room/kitchen_kastrula",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/prop/prop_kitchen_stuff"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

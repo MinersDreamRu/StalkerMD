@@ -1,0 +1,19 @@
+{
+  "scale": 0.99,
+  "directions": 4,
+  "rotate": 90.0,
+  "translation": [0.0, 0.0, 0.5],
+  "icon": "statics/bed/bed_01_matras_2",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_mattress1",
+    "2": "addition/prop/prop_bet2b",
+    "3": "addition/mtl/mtl_rja_green"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0.5, -1, 1, 0, 2],
+    "main2": [-0.5, 1.5, -1, 1, 0, 2],
+    "main3": [-0.5, 0, 1, 1, 2, 0],
+    "main4": [-0.5, 0, -1, 1, 2, 0]
+  }
+}

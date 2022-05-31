@@ -1,0 +1,19 @@
+{
+    "internalName": "stalker.backpack",
+    "defense": "0.0",
+    "durability": 0,    "armorTypes": 
+    {
+        "legs":
+        {
+            "displayName": "Backpack",
+			"armorModels": ["bodyModel","rightArmModel","leftArmModel"]
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.backpack",
+        "displayName": "Backpack - Default"
+      }
+    ]
+}

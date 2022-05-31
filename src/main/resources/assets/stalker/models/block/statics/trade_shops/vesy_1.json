@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/trade_shops/vesy_1",
+  "light": 0,
+  "textures": {
+    "0.017": "addition/prop/prop_vesy_1"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0.3, 0, 1, 0],
+    "main2": [0, 0, -0.3, 0, 1, 0],
+	"main3": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "translation": [0.5, 0.0, 0.0],
+  "icon": "statics/living_room/clock_walls_1",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_clock1",
+    "1": "addition/prop/prop_clock1"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, -0.5, 0, 1, 1]
+  }
+}

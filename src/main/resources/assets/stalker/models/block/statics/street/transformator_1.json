@@ -1,0 +1,23 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/street/transformator_1",
+  "light": 0,
+  "textures": {
+    "0.022": "addition/prop/prop_transformer_dw",
+	"1.017": "addition/prop/prop_transformer_dw",
+	"2.008": "addition/prop/prop_transformer_dw"
+  },
+  "collision-boxes": {
+    "main1": [-0.5, 0, 0.5, 0, 3, 0],
+    "main2": [-0.5, 0, -0.4, 0, 3, 0],
+    "main3": [0.5, 0, -0.4, 0, 3, 0],
+    "main4": [-0.6, 3, -0.5, 1, 2, 1],
+    "main5": [0.6, 2, -0.5, 0, 1, 1],
+    "main6": [-0.2, 2.1, 0.5, 1, 0, 0],
+    "main7": [-0.2, 2.1, -0.5, 1, 0, 0],
+    "main8": [0.5, 0, 0.5, 0, 3, 0],
+    "main9": [-0.1, 4.5, -0.5, 0, 1, 1]
+  }
+}

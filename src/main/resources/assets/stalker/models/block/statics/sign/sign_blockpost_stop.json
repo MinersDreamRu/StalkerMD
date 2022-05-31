@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/sign/sign_blockpost_stop",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/prop/prop_ukazatel"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.3, 0, 0, 1, 0],
+    "main2": [0, 1.4, 0.3, 0, 0, 0],
+    "main3": [0, 1.4, -0.3, 0, 0, 0]
+  }
+}

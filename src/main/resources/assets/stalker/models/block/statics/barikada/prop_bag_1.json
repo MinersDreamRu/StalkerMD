@@ -1,0 +1,17 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/barikada/prop_bag_1",
+  "light": 0,
+  "textures": {
+    "0.005": "addition/prop/prop_bag"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0, -1.5, 0, 1, 3],
+    "main2": [-0.5, 0, 2, 0, 1, 0],
+    "main3": [-0.5, 0, -2, 0, 1, 0],
+    "main4": [0, 0, 2.5, 1, 1, 0],
+    "main5": [0, 0, -2.3, 1, 1, 0]
+  }
+}

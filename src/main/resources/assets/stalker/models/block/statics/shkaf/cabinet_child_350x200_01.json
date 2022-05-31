@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/shkaf/cabinet_child_350x200_01",
+  "light": 0,
+  "textures": {
+    "0.004": "addition/prop/prop_mebel"
+  },
+  "collision-boxes": {
+    "main1": [-0.6, 0, -1.2, 0, 2, 3],
+    "main2": [0, 0, -1.2, 0, 2, 3],
+    "main3": [-0.6, 0, -1.8, 0, 2, 1],
+    "main4": [0, 0, -1.8, 0, 2, 1]
+  }
+}

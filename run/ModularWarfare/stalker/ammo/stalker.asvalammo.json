@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.asvalammo",
+    "displayName": "AS VAL Mag 20rnd ",
+    "ammoCapacity": 20,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x39"
+    ],
+    "allowEmptyMagazines": true
+}

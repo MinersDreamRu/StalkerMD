@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/street/skamya_01",
+  "light": 0,
+  "textures": {
+	"0.018": "addition/wood/wood_collect",
+	"1.015": "addition/crete/crete_walls_02"
+  },
+  "collision-boxes": {
+    "main1": [0.2, 0.5, -1.5, 0, 0, 3],
+    "main2": [-0.2, 0.5, -1.5, 0, 0, 3]
+  }
+}

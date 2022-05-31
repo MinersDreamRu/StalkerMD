@@ -1,0 +1,16 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 270.0,
+  "icon": "statics/street/lamppost_01",
+  "light": 0,
+  "textures": {
+	"0": "addition/prop/prop_lamppost1b",
+	"1": "addition/mtl/mtl_tubes3b"
+  },
+  "collision-boxes": {
+    "main1": [0, 0, 0, 0, 8, 0],
+    "main2": [-1.8, 8.8, 0, 1, 0, 0],
+    "main3": [-1, 8.5, 0, 1, 0, 0]
+  }
+}

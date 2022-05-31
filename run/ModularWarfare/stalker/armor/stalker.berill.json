@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.berill",
+    "defense": "0.5",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "Berill"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.berill",
+        "displayName": "Berill - Default"
+      }
+    ]
+}

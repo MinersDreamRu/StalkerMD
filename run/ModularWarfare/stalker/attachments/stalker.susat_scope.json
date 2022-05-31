@@ -1,0 +1,16 @@
+{
+  "displayName": "Susat Scope",
+  "internalName": "stalker.susat_scope",
+  "attachmentType": "sight",
+  "modelSkins": [
+    {
+      "skinAsset": "stalker.susat_scope",
+      "displayName": "Susat Scope - Default"
+    }
+  ],
+  "sight": {
+    "scopeType": "4x",
+    "sensivityScopeFactor": 1.3,
+    "dotColorType": "red"
+  }
+}

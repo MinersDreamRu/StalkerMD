@@ -1,0 +1,15 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 0,
+  "translation": [0.45, 0.0, 0.0],
+  "icon": "statics/sign/sign_ashot",
+  "light": 0,
+  "textures": {
+    "0": "addition/prop/prop_signs_02",
+    "1": "addition/prop/prop_signs_02"
+  },
+  "collision-boxes": {
+    "main1": [-1, 0.4, 0, 2, 1, 0]
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "internalName": "stalker.gaussammo",
+    "displayName": "Gauss Mag 10rnd ",
+    "ammoCapacity": 10,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.handigaussbullet",
+        "stalker.gaussbullet"
+	],
+    "allowEmptyMagazines": true
+}

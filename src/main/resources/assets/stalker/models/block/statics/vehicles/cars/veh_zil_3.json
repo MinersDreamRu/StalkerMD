@@ -1,0 +1,19 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_zil_3",
+  "light": 0,
+  "textures": {
+    "1.035": "statics/vehicles/cars/veh_zil",
+    "2.029": "statics/vehicles/cars/veh_zil",
+    "4.015": "statics/vehicles/cars/veh_zil"
+  },
+  "collision-boxes": {
+    "main1": [0.5, 0.3, -0.5, 1, 2, 2],
+    "main2": [1.5, 0.3, 0, 2, 2, 1],
+    "main3": [-3, 0, -0.7, 4, 3, 1],
+    "main4": [-3, 0, 0.3, 3, 3, 1],
+    "main5": [2, 0.3, -1.1, 1, 2, 1]
+  }
+}

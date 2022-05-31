@@ -1,0 +1,21 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_rukochod",
+  "light": 0,
+  "textures": {
+    "0.010": "addition/mtl/mtl_rja_green"
+  },
+  "collision-boxes": {
+    "main1": [2.3, 0.4, -0.5, 0, 0, 1],
+	"main2": [1.8, 1, -0.5, 0, 0, 1],
+	"main3": [-1.8, 1, -0.5, 0, 0, 1],
+	"main4": [-2.3, 0.4, -0.5, 0, 0, 1],
+	"main5": [1.2, 1.5, -0.5, 0, 0, 1],
+	"main6": [-1.2, 1.5, -0.5, 0, 0, 1],
+	"main7": [-0.4, 1.8, -0.5, 0, 0, 1],
+	"main8": [0.4, 1.8, -0.5, 0, 0, 1]
+
+  }
+}

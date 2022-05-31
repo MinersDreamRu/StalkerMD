@@ -1,0 +1,18 @@
+{
+    "internalName": "stalker.ps39m.merc",
+    "defense": "0.67",
+    "durability": 0,    "armorTypes": 
+    {
+        "chest":
+        {
+            "displayName": "PS39M MERC"
+        }
+    },
+    "modelSkins":
+    [
+      {
+        "skinAsset": "stalker.ps39m.merc",
+        "displayName": "PS39M - Default"
+      }
+    ]
+}

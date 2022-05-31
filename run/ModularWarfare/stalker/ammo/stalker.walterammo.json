@@ -1,0 +1,10 @@
+{
+    "internalName": "stalker.walterammo",
+    "displayName": "Walter Mag 16rnd ",
+    "ammoCapacity": 16,
+    "magazineCount": 1,
+    "subAmmo": [
+        "stalker.9x19"
+    ],
+    "allowEmptyMagazines": true
+}

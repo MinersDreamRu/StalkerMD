@@ -1,0 +1,14 @@
+{
+  "scale": 1,
+  "directions": 16,
+  "rotate": 90.0,
+  "icon": "statics/dead_body/skeleton_parts_3",
+  "light": 0,
+  "textures": {
+    "0.006": "addition/act/act_skeleton_fresh"
+  },
+  "collision-boxes": {
+    "main1": [0, 0.1, 0, 0, 0, 0],
+	"main2": [-0.5, 0, -0.5, 1, 0, 1]
+  }
+}

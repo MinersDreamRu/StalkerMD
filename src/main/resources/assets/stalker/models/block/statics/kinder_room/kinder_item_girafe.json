@@ -1,0 +1,23 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/kinder_room/kinder_item_girafe",
+  "light": 0,
+  "textures": {
+    "0.003": "addition/mtl/mtl_rja_01",
+    "1.002": "addition/prop/prop_playyard_giraffe",
+    "2.002": "addition/mtl/mtl_rja_01",
+    "3.002": "addition/mtl/mtl_rja_01"
+  },
+  "collision-boxes": {
+    "main1": [-0.7, 2, -0.5, 1, 0, 0],
+	"main2": [-0.5, 1.2, -0.5, 0, 0, 1],
+	"main3": [0.2, 1.7, -0.5, 0, 0, 1],
+	"main4": [-0.8, 0.6, -0.5, 0, 0, 1],
+	"main5": [-1, 0.1, -0.5, 0, 0, 1],
+	"main6": [0.4, 1.5, -0.5, 0, 2, 1],
+	"main7": [-0.7, 2, 0.5, 1, 0, 0]
+
+  }
+}

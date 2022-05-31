@@ -1,0 +1,25 @@
+{
+  "scale": 1,
+  "directions": 4,
+  "rotate": 90.0,
+  "icon": "statics/vehicles/cars/veh_zil_fire",
+  "light": 0,
+  "textures": {
+    "0.040": "statics/vehicles/cars/veh_zil_fire",
+    "1.040": "statics/vehicles/cars/veh_zil_fire",
+    "2.034": "statics/vehicles/cars/veh_zil_fire"
+  },
+  "collision-boxes": {
+    "main1": [-4.2, 1.1, -1, 5, 1, 2],
+    "main2": [0, 1.8, -1, 2, 1, 2],
+    "main3": [1.9, 1, -1, 2, 1, 2],
+    "main4": [2.6, 0, -1.5, 1, 1, 1],
+    "main5": [2.6, 0, 0.5, 1, 1, 1],
+    "main6": [-1.7, 0, 0.5, 1, 1, 1],
+    "main7": [-3.3, 0, 0.5, 1, 1, 1],
+    "main8": [-3.3, 0, -1.5, 1, 1, 1],
+    "main9": [-1.7, 0, -1.5, 1, 1, 1],
+    "main10": [-4.5, 3, -1, 5, 0, 2],
+	"main11": [0, 1, -1, 2, 2, 2]
+  }
+}
