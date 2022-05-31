@@ -42,3 +42,4 @@ run/*.zip
 run/*.jar
 run/*.dat
 run/*.txt
+run/server.properties
